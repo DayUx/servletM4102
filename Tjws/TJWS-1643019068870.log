@@ -1,0 +1,4 @@
+[Mon Jan 24 11:11:10 CET 2022] No .war packaged web apps found in default
+[Mon Jan 24 11:11:10 CET 2022] No web apps have been deployed in default
+/0:0:0:0:0:0:0:1:8080 - - [24/Jan/2022:11:11:42 +0100] "GET / HTTP/1.1" 200 575 - -
+/0:0:0:0:0:0:0:1:8080 - - [24/Jan/2022:11:11:43 +0100] "GET /favicon.ico HTTP/1.1" 404 614 - -

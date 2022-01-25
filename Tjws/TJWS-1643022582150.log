@@ -1,0 +1,160 @@
+[Mon Jan 24 12:09:43 CET 2022] Deploying appli
+[Mon Jan 24 12:09:44 CET 2022] M4102C> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Jan 24 12:09:44 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@4145bad8, for path:/M4102C/*
+[Mon Jan 24 12:09:44 CET 2022] Deploying appli
+[Mon Jan 24 12:09:44 CET 2022] M4102C> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Jan 24 12:09:45 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@4c972a6f, for path:/M4102C/*
+[Mon Jan 24 12:09:50 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@4c972a6f
+[Mon Jan 24 12:09:50 CET 2022] Deploying appli
+[Mon Jan 24 12:09:50 CET 2022] M4102C> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Jan 24 12:09:50 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@4c32e4fa, for path:/M4102C/*
+[Mon Jan 24 12:09:53 CET 2022] TJWS: Unexpected problem running servlet
+java.lang.RuntimeException: java.lang.NumberFormatException: Cannot parse null string
+	at rogatkin.web.WebAppServlet$SimpleFilterChain.doFilter(WebAppServlet.java:3621)
+	at rogatkin.web.WebAppServlet$WebAppContextFilter.doFilter(WebAppServlet.java:3206)
+	at rogatkin.web.WebAppServlet$SimpleFilterChain.doFilter(WebAppServlet.java:3557)
+	at rogatkin.web.WebAppServlet.service(WebAppServlet.java:1451)
+	at Acme.Serve.Serve$ServeConnection.runServlet(Serve.java:2408)
+	at Acme.Serve.Serve$ServeConnection.parseRequest(Serve.java:2330)
+	at Acme.Serve.Serve$ServeConnection.run(Serve.java:2110)
+	at Acme.Utils$ThreadPool$PooledThread.run(Utils.java:1238)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.NumberFormatException: Cannot parse null string
+	at java.base/java.lang.Integer.parseInt(Integer.java:630)
+	at java.base/java.lang.Integer.parseInt(Integer.java:786)
+	at com.iut.servlets.Action.doGet(Action.java:13)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:734)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:847)
+	at rogatkin.web.WebAppServlet$SimpleFilterChain.doFilter(WebAppServlet.java:3585)
+	... 8 more
+
+[Mon Jan 24 12:09:53 CET 2022] TJWS: Unexpected problem running servlet: java.lang.RuntimeException: java.lang.NumberFormatException: Cannot parse null string
+/0:0:0:0:0:0:0:1:8040 - - [24/Jan/2022:12:09:53 +0100] "GET /M4102C/action HTTP/1.1" 500 914 - -
+[Mon Jan 24 12:09:55 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@4c32e4fa
+[Mon Jan 24 12:09:55 CET 2022] Deploying appli
+[Mon Jan 24 12:09:56 CET 2022] M4102C> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Jan 24 12:09:56 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@6ee63656, for path:/M4102C/*
+/0:0:0:0:0:0:0:1:8040 - - [24/Jan/2022:12:09:56 +0100] "GET /M4102C/ HTTP/1.1" 200 479 - -
+/0:0:0:0:0:0:0:1:8040 - - [24/Jan/2022:12:10:00 +0100] "GET /M4102C/date HTTP/1.1" 200 0 - -
+[Mon Jan 24 12:10:01 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@6ee63656
+[Mon Jan 24 12:10:01 CET 2022] Deploying appli
+[Mon Jan 24 12:10:01 CET 2022] M4102C> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Jan 24 12:10:02 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@97c7af4, for path:/M4102C/*
+[Mon Jan 24 12:10:04 CET 2022] TJWS: Unexpected problem running servlet
+java.lang.RuntimeException: java.lang.NumberFormatException: Cannot parse null string
+	at rogatkin.web.WebAppServlet$SimpleFilterChain.doFilter(WebAppServlet.java:3621)
+	at rogatkin.web.WebAppServlet$WebAppContextFilter.doFilter(WebAppServlet.java:3206)
+	at rogatkin.web.WebAppServlet$SimpleFilterChain.doFilter(WebAppServlet.java:3557)
+	at rogatkin.web.WebAppServlet.service(WebAppServlet.java:1451)
+	at Acme.Serve.Serve$ServeConnection.runServlet(Serve.java:2408)
+	at Acme.Serve.Serve$ServeConnection.parseRequest(Serve.java:2330)
+	at Acme.Serve.Serve$ServeConnection.run(Serve.java:2110)
+	at Acme.Utils$ThreadPool$PooledThread.run(Utils.java:1238)
+	at java.base/java.lang.Thread.run(Thread.java:833)
+Caused by: java.lang.NumberFormatException: Cannot parse null string
+	at java.base/java.lang.Integer.parseInt(Integer.java:630)
+	at java.base/java.lang.Integer.parseInt(Integer.java:786)
+	at com.iut.servlets.Action.doGet(Action.java:13)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:734)
+	at javax.servlet.http.HttpServlet.service(HttpServlet.java:847)
+	at rogatkin.web.WebAppServlet$SimpleFilterChain.doFilter(WebAppServlet.java:3585)
+	... 8 more
+
+[Mon Jan 24 12:10:04 CET 2022] TJWS: Unexpected problem running servlet: java.lang.RuntimeException: java.lang.NumberFormatException: Cannot parse null string
+/0:0:0:0:0:0:0:1:8040 - - [24/Jan/2022:12:10:04 +0100] "GET /M4102C/action HTTP/1.1" 500 914 - -
+[Mon Jan 24 12:10:07 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@97c7af4
+[Mon Jan 24 12:10:07 CET 2022] Deploying appli
+[Mon Jan 24 12:10:07 CET 2022] M4102C> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Jan 24 12:10:07 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@402af268, for path:/M4102C/*
+[Mon Jan 24 12:10:12 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@402af268
+[Mon Jan 24 12:10:12 CET 2022] Deploying appli
+[Mon Jan 24 12:10:13 CET 2022] M4102C> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Jan 24 12:10:13 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@3aa2e788, for path:/M4102C/*
+[Mon Jan 24 12:10:18 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@3aa2e788
+[Mon Jan 24 12:10:18 CET 2022] Deploying appli
+[Mon Jan 24 12:10:19 CET 2022] M4102C> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Jan 24 12:10:19 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@1443469b, for path:/M4102C/*
+[Mon Jan 24 12:10:24 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@1443469b
+[Mon Jan 24 12:10:24 CET 2022] Deploying appli
+[Mon Jan 24 12:10:24 CET 2022] M4102C> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Jan 24 12:10:25 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@5b73cf4e, for path:/M4102C/*
+[Mon Jan 24 12:10:30 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@5b73cf4e
+[Mon Jan 24 12:10:30 CET 2022] Deploying appli
+[Mon Jan 24 12:10:30 CET 2022] M4102C> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Jan 24 12:10:30 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@5b17ee19, for path:/M4102C/*
+[Mon Jan 24 12:10:35 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@5b17ee19
+[Mon Jan 24 12:10:35 CET 2022] Deploying appli
+[Mon Jan 24 12:10:36 CET 2022] M4102C> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Jan 24 12:10:36 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@33cb9697, for path:/M4102C/*
+/0:0:0:0:0:0:0:1:8040 - - [24/Jan/2022:12:10:40 +0100] "GET /M4102C/action&entier=42 HTTP/1.1" 404 578 - -
+[Mon Jan 24 12:10:41 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@33cb9697
+[Mon Jan 24 12:10:41 CET 2022] Deploying appli
+[Mon Jan 24 12:10:41 CET 2022] M4102C> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Jan 24 12:10:41 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@5a3cb347, for path:/M4102C/*
+[Mon Jan 24 12:10:47 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@5a3cb347
+[Mon Jan 24 12:10:47 CET 2022] Deploying appli
+[Mon Jan 24 12:10:47 CET 2022] M4102C> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Jan 24 12:10:47 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@767bf3dc, for path:/M4102C/*
+[Mon Jan 24 12:10:52 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@767bf3dc
+[Mon Jan 24 12:10:52 CET 2022] Deploying appli
+[Mon Jan 24 12:10:52 CET 2022] M4102C> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Jan 24 12:10:53 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@1b760793, for path:/M4102C/*
+[Mon Jan 24 12:10:58 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@1b760793
+[Mon Jan 24 12:10:58 CET 2022] Deploying appli
+[Mon Jan 24 12:10:58 CET 2022] M4102C> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Jan 24 12:10:58 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@490d2222, for path:/M4102C/*
+[Mon Jan 24 12:11:03 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@490d2222
+[Mon Jan 24 12:11:03 CET 2022] Deploying appli
+[Mon Jan 24 12:11:04 CET 2022] M4102C> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Jan 24 12:11:04 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@4e4e74f5, for path:/M4102C/*
+[Mon Jan 24 12:11:09 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@4e4e74f5
+[Mon Jan 24 12:11:09 CET 2022] Deploying appli
+[Mon Jan 24 12:11:09 CET 2022] M4102C> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Jan 24 12:11:09 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@40d83d76, for path:/M4102C/*
+[Mon Jan 24 12:11:14 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@40d83d76
+[Mon Jan 24 12:11:14 CET 2022] Deploying appli
+[Mon Jan 24 12:11:15 CET 2022] M4102C> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Jan 24 12:11:15 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@e6c1661, for path:/M4102C/*
+/0:0:0:0:0:0:0:1:8040 - - [24/Jan/2022:12:11:19 +0100] "GET /M4102C/action&entier=%2242%22 HTTP/1.1" 404 578 - -
+[Mon Jan 24 12:11:20 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@e6c1661
+[Mon Jan 24 12:11:20 CET 2022] Deploying appli
+[Mon Jan 24 12:11:20 CET 2022] M4102C> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Jan 24 12:11:21 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@1a824db, for path:/M4102C/*
+/0:0:0:0:0:0:0:1:8040 - - [24/Jan/2022:12:11:25 +0100] "GET /M4102C/action&entier=42 HTTP/1.1" 404 578 - -
+[Mon Jan 24 12:11:26 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@1a824db
+[Mon Jan 24 12:11:26 CET 2022] Deploying appli
+[Mon Jan 24 12:11:26 CET 2022] M4102C> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Jan 24 12:11:26 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@3a4599f3, for path:/M4102C/*
+[Mon Jan 24 12:11:31 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@3a4599f3
+[Mon Jan 24 12:11:31 CET 2022] Deploying appli
+[Mon Jan 24 12:11:31 CET 2022] M4102C> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Jan 24 12:11:32 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@3ade4793, for path:/M4102C/*
+[Mon Jan 24 12:11:37 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@3ade4793
+[Mon Jan 24 12:11:37 CET 2022] Deploying appli
+[Mon Jan 24 12:11:37 CET 2022] M4102C> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Jan 24 12:11:37 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@71ffd187, for path:/M4102C/*
+[Mon Jan 24 12:11:42 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@71ffd187
+[Mon Jan 24 12:11:42 CET 2022] Deploying appli
+[Mon Jan 24 12:11:43 CET 2022] M4102C> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Jan 24 12:11:43 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@35ece3a1, for path:/M4102C/*
+[Mon Jan 24 12:11:48 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@35ece3a1
+[Mon Jan 24 12:11:48 CET 2022] Deploying appli
+[Mon Jan 24 12:11:48 CET 2022] M4102C> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Jan 24 12:11:48 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@6f0dd5ad, for path:/M4102C/*
+[Mon Jan 24 12:11:53 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@6f0dd5ad
+[Mon Jan 24 12:11:53 CET 2022] Deploying appli
+[Mon Jan 24 12:11:54 CET 2022] M4102C> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Jan 24 12:11:54 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@2f99f356, for path:/M4102C/*
+[Mon Jan 24 12:11:59 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@2f99f356
+[Mon Jan 24 12:11:59 CET 2022] Deploying appli
+[Mon Jan 24 12:11:59 CET 2022] M4102C> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Jan 24 12:11:59 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@1ca8ecf, for path:/M4102C/*
+[Mon Jan 24 12:12:04 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@1ca8ecf
+[Mon Jan 24 12:12:04 CET 2022] Deploying appli
+[Mon Jan 24 12:12:05 CET 2022] M4102C> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Jan 24 12:12:05 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@2c4882c, for path:/M4102C/*
+[Mon Jan 24 12:12:10 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@2c4882c
+[Mon Jan 24 12:12:10 CET 2022] Deploying appli
+[Mon Jan 24 12:12:10 CET 2022] M4102C> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Jan 24 12:12:10 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@1f6e5466, for path:/M4102C/*
+[Mon Jan 24 12:12:15 CET 2022] TJWS: Accept: java.io.IOException

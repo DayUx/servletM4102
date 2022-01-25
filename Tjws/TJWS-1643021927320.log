@@ -1,0 +1,4 @@
+[Mon Jan 24 11:58:48 CET 2022] Deploying appli
+[Mon Jan 24 11:58:49 CET 2022] M4102C> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Jan 24 11:58:49 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@63376bed, for path:/M4102C/*
+[Mon Jan 24 11:58:49 CET 2022] TJWS:  Acceptor [SelectorAcceptor - ServerSocket[unbound]: java.net.BindException: Address already in use

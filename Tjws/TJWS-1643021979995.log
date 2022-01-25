@@ -1,0 +1,9 @@
+[Mon Jan 24 11:59:41 CET 2022] Deploying appli
+[Mon Jan 24 11:59:42 CET 2022] M4102C> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Jan 24 11:59:42 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@63376bed, for path:/M4102C/*
+/0:0:0:0:0:0:0:1:8040 - - [24/Jan/2022:11:59:50 +0100] "GET / HTTP/1.1" 200 575 - -
+/0:0:0:0:0:0:0:1:8040 - - [24/Jan/2022:11:59:50 +0100] "GET /favicon.ico HTTP/1.1" 404 614 - -
+/0:0:0:0:0:0:0:1:8040 - - [24/Jan/2022:11:59:56 +0100] "GET /M4102C HTTP/1.1" 302 688 - -
+/0:0:0:0:0:0:0:1:8040 - - [24/Jan/2022:11:59:56 +0100] "GET /M4102C/ HTTP/1.1" 200 479 - -
+/0:0:0:0:0:0:0:1:8040 - - [24/Jan/2022:12:00:04 +0100] "GET /M4102C/action HTTP/1.1" 200 0 - -
+[Mon Jan 24 12:02:23 CET 2022] TJWS: Accept: java.io.IOException
