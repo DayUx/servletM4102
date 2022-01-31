@@ -34,12 +34,13 @@ button {
     border-radius: 5px;
     padding: 10px 20px;
     color: #FFFFFF;
+    transition: 0.2s all;
+
 }
 
 button:hover {
     background: #FFFFFF;
     color: #497ba4;
-    transition: 0.2s all;
     cursor: pointer;
 }
 
