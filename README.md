@@ -1,4 +1,7 @@
 # servletM4102
 
 
-jar -cf ../Tjws/webapps/appli.war index.html WEB-INF
+Pour lancer tjws, il faut executer le script suivant dans le répertoire tjws/bin:
+    ./tjws.sh
+Pour compiler le projet, il faut executer le script suivant dans le répertoire tpX/:
+    ./Lancement.sh
