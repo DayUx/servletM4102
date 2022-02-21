@@ -1,0 +1,2022 @@
+[Mon Feb 21 10:34:56 CET 2022] Deploying appli
+[Mon Feb 21 10:34:57 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:34:57 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@25ce9dc4, for path:/dir/*
+[Mon Feb 21 10:34:57 CET 2022] Deploying appli
+[Mon Feb 21 10:34:57 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:34:58 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@2b6a9f2f, for path:/dir/*
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:34:58 +0100] "GET /dir/ HTTP/1.1" 200 861 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:34:58 +0100] "GET /dir/js/global.js HTTP/1.1" 200 1,991 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:34:58 +0100] "GET /dir/css/style.css HTTP/1.1" 200 1,768 - -
+[Mon Feb 21 10:35:03 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@2b6a9f2f
+[Mon Feb 21 10:35:03 CET 2022] Deploying appli
+[Mon Feb 21 10:35:03 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:35:03 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@5f93eb7e, for path:/dir/*
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:35:07 +0100] "GET /dir/ HTTP/1.1" 200 861 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:35:07 +0100] "GET /dir/js/global.js HTTP/1.1" 200 1,991 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:35:07 +0100] "GET /dir/css/style.css HTTP/1.1" 200 1,768 - -
+[Mon Feb 21 10:35:08 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@5f93eb7e
+[Mon Feb 21 10:35:08 CET 2022] Deploying appli
+[Mon Feb 21 10:35:08 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:35:09 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@1f3e71ab, for path:/dir/*
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:35:11 +0100] "GET /dir/ HTTP/1.1" 200 861 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:35:11 +0100] "GET /dir/css/style.css HTTP/1.1" 200 1,768 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:35:11 +0100] "GET /dir/js/global.js HTTP/1.1" 200 1,991 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:35:11 +0100] "GET /dir/ HTTP/1.1" 200 861 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:35:11 +0100] "GET /dir/js/global.js HTTP/1.1" 200 1,991 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:35:11 +0100] "GET /dir/css/style.css HTTP/1.1" 200 1,768 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:35:12 +0100] "GET /dir/ HTTP/1.1" 200 861 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:35:12 +0100] "GET /dir/js/global.js HTTP/1.1" 200 1,991 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:35:12 +0100] "GET /dir/css/style.css HTTP/1.1" 200 1,768 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:35:12 +0100] "GET /dir/ HTTP/1.1" 200 861 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:35:12 +0100] "GET /dir/js/global.js HTTP/1.1" 200 1,991 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:35:12 +0100] "GET /dir/css/style.css HTTP/1.1" 200 1,768 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:35:12 +0100] "GET /dir/ HTTP/1.1" 200 861 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:35:13 +0100] "GET /dir/js/global.js HTTP/1.1" 200 1,991 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:35:13 +0100] "GET /dir/css/style.css HTTP/1.1" 200 1,768 - -
+[Mon Feb 21 10:35:14 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@1f3e71ab
+[Mon Feb 21 10:35:14 CET 2022] Deploying appli
+[Mon Feb 21 10:35:14 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:35:14 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@145a00fa, for path:/dir/*
+[Mon Feb 21 10:35:19 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@145a00fa
+[Mon Feb 21 10:35:19 CET 2022] Deploying appli
+[Mon Feb 21 10:35:19 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:35:19 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@75e49a34, for path:/dir/*
+[Mon Feb 21 10:35:24 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@75e49a34
+[Mon Feb 21 10:35:25 CET 2022] Deploying appli
+[Mon Feb 21 10:35:25 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:35:25 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@77923392, for path:/dir/*
+[Mon Feb 21 10:35:30 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@77923392
+[Mon Feb 21 10:35:30 CET 2022] Deploying appli
+[Mon Feb 21 10:35:30 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:35:30 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@3ea2f9f6, for path:/dir/*
+[Mon Feb 21 10:35:35 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@3ea2f9f6
+[Mon Feb 21 10:35:35 CET 2022] Deploying appli
+[Mon Feb 21 10:35:36 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:35:36 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@62f50577, for path:/dir/*
+[Mon Feb 21 10:35:41 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@62f50577
+[Mon Feb 21 10:35:41 CET 2022] Deploying appli
+[Mon Feb 21 10:35:41 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:35:41 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@58821e9c, for path:/dir/*
+[Mon Feb 21 10:35:46 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@58821e9c
+[Mon Feb 21 10:35:46 CET 2022] Deploying appli
+[Mon Feb 21 10:35:46 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:35:47 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@7c29d005, for path:/dir/*
+[Mon Feb 21 10:35:52 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@7c29d005
+[Mon Feb 21 10:35:52 CET 2022] Deploying appli
+[Mon Feb 21 10:35:52 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:35:52 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@285bc808, for path:/dir/*
+[Mon Feb 21 10:35:57 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@285bc808
+[Mon Feb 21 10:35:57 CET 2022] Deploying appli
+[Mon Feb 21 10:35:57 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:35:57 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@79298b31, for path:/dir/*
+[Mon Feb 21 10:36:02 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@79298b31
+[Mon Feb 21 10:36:02 CET 2022] Deploying appli
+[Mon Feb 21 10:36:03 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:36:03 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@8b94b8, for path:/dir/*
+[Mon Feb 21 10:36:08 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@8b94b8
+[Mon Feb 21 10:36:08 CET 2022] Deploying appli
+[Mon Feb 21 10:36:08 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:36:08 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@3f16feb7, for path:/dir/*
+[Mon Feb 21 10:36:13 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@3f16feb7
+[Mon Feb 21 10:36:13 CET 2022] Deploying appli
+[Mon Feb 21 10:36:14 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:36:14 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@32b7d6f, for path:/dir/*
+[Mon Feb 21 10:36:19 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@32b7d6f
+[Mon Feb 21 10:36:19 CET 2022] Deploying appli
+[Mon Feb 21 10:36:19 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:36:19 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@7fed4f70, for path:/dir/*
+[Mon Feb 21 10:36:24 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@7fed4f70
+[Mon Feb 21 10:36:24 CET 2022] Deploying appli
+[Mon Feb 21 10:36:24 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:36:25 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@411e1a20, for path:/dir/*
+[Mon Feb 21 10:36:30 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@411e1a20
+[Mon Feb 21 10:36:30 CET 2022] Deploying appli
+[Mon Feb 21 10:36:30 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:36:30 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@38e91e9c, for path:/dir/*
+[Mon Feb 21 10:36:35 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@38e91e9c
+[Mon Feb 21 10:36:35 CET 2022] Deploying appli
+[Mon Feb 21 10:36:35 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:36:36 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@75e05770, for path:/dir/*
+[Mon Feb 21 10:36:41 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@75e05770
+[Mon Feb 21 10:36:41 CET 2022] Deploying appli
+[Mon Feb 21 10:36:41 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:36:41 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@7fdd0eea, for path:/dir/*
+[Mon Feb 21 10:36:46 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@7fdd0eea
+[Mon Feb 21 10:36:46 CET 2022] Deploying appli
+[Mon Feb 21 10:36:46 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:36:46 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@3ab7f783, for path:/dir/*
+[Mon Feb 21 10:36:51 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@3ab7f783
+[Mon Feb 21 10:36:51 CET 2022] Deploying appli
+[Mon Feb 21 10:36:52 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:36:52 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@2965d7e7, for path:/dir/*
+[Mon Feb 21 10:36:57 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@2965d7e7
+[Mon Feb 21 10:36:57 CET 2022] Deploying appli
+[Mon Feb 21 10:36:57 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:36:57 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@2eae29ff, for path:/dir/*
+[Mon Feb 21 10:37:02 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@2eae29ff
+[Mon Feb 21 10:37:02 CET 2022] Deploying appli
+[Mon Feb 21 10:37:02 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:37:03 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@1b6d5e6, for path:/dir/*
+[Mon Feb 21 10:37:08 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@1b6d5e6
+[Mon Feb 21 10:37:08 CET 2022] Deploying appli
+[Mon Feb 21 10:37:08 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:37:08 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@1aa7df56, for path:/dir/*
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:12 +0100] "GET /dir/ HTTP/1.1" 200 861 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:12 +0100] "GET /dir/css/style.css HTTP/1.1" 200 1,768 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:12 +0100] "GET /dir/js/global.js HTTP/1.1" 200 1,991 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:13 +0100] "GET /dir/ HTTP/1.1" 200 861 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:13 +0100] "GET /dir/css/style.css HTTP/1.1" 200 1,768 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:13 +0100] "GET /dir/js/global.js HTTP/1.1" 200 1,991 - -
+[Mon Feb 21 10:37:13 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@1aa7df56
+[Mon Feb 21 10:37:13 CET 2022] Deploying appli
+[Mon Feb 21 10:37:13 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:13 +0100] "GET /dir/ HTTP/1.1" 404 581 - -
+[Mon Feb 21 10:37:14 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@7c089c07, for path:/dir/*
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:14 +0100] "GET /dir/ HTTP/1.1" 200 886 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:14 +0100] "GET /dir/css/style.css HTTP/1.1" 200 1,768 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:14 +0100] "GET /dir/js/global.js HTTP/1.1" 200 2,053 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:14 +0100] "GET /dir/ HTTP/1.1" 200 886 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:14 +0100] "GET /dir/css/style.css HTTP/1.1" 200 1,768 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:14 +0100] "GET /dir/js/global.js HTTP/1.1" 200 2,053 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:14 +0100] "GET /dir/ HTTP/1.1" 200 886 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:14 +0100] "GET /dir/ HTTP/1.1" 200 886 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:14 +0100] "GET /dir/ HTTP/1.1" 200 886 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:14 +0100] "GET /dir/ HTTP/1.1" 200 886 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:14 +0100] "GET /dir/css/style.css HTTP/1.1" 200 1,768 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:14 +0100] "GET /dir/js/global.js HTTP/1.1" 200 2,053 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:14 +0100] "GET /dir/ HTTP/1.1" 200 886 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:15 +0100] "GET /dir/ HTTP/1.1" 200 886 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:15 +0100] "GET /dir/css/style.css HTTP/1.1" 200 1,768 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:15 +0100] "GET /dir/js/global.js HTTP/1.1" 200 2,053 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:15 +0100] "GET /dir/ HTTP/1.1" 200 886 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:15 +0100] "GET /dir/css/style.css HTTP/1.1" 200 1,768 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:15 +0100] "GET /dir/js/global.js HTTP/1.1" 200 2,053 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:15 +0100] "GET /dir/ HTTP/1.1" 200 886 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:15 +0100] "GET /dir/css/style.css HTTP/1.1" 200 1,768 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:15 +0100] "GET /dir/js/global.js HTTP/1.1" 200 2,053 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:15 +0100] "GET /dir/ HTTP/1.1" 200 886 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:15 +0100] "GET /dir/css/style.css HTTP/1.1" 200 1,768 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:15 +0100] "GET /dir/js/global.js HTTP/1.1" 200 2,053 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:16 +0100] "GET /dir/index.php HTTP/1.1" 404 578 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:16 +0100] "GET /dir/dir HTTP/1.1" 200 833 - -
+[Mon Feb 21 10:37:19 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@7c089c07
+[Mon Feb 21 10:37:19 CET 2022] Deploying appli
+[Mon Feb 21 10:37:19 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:37:19 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@736b2eaa, for path:/dir/*
+[Mon Feb 21 10:37:24 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@736b2eaa
+[Mon Feb 21 10:37:24 CET 2022] Deploying appli
+[Mon Feb 21 10:37:24 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:37:24 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@6eb95f27, for path:/dir/*
+[Mon Feb 21 10:37:29 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@6eb95f27
+[Mon Feb 21 10:37:29 CET 2022] Deploying appli
+[Mon Feb 21 10:37:30 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:37:30 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@117b9381, for path:/dir/*
+[Mon Feb 21 10:37:35 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@117b9381
+[Mon Feb 21 10:37:35 CET 2022] Deploying appli
+[Mon Feb 21 10:37:35 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:37:35 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@73946276, for path:/dir/*
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:39 +0100] "GET /dir/ HTTP/1.1" 200 886 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:39 +0100] "GET /dir/js/global.js HTTP/1.1" 200 2,053 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:39 +0100] "GET /dir/css/style.css HTTP/1.1" 200 1,768 - -
+[Mon Feb 21 10:37:40 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@73946276
+[Mon Feb 21 10:37:40 CET 2022] Deploying appli
+[Mon Feb 21 10:37:41 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:37:41 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@3daa35f4, for path:/dir/*
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:41 +0100] "GET /dir/index.php HTTP/1.1" 404 578 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:41 +0100] "GET /dir/dir HTTP/1.1" 200 833 - -
+[Mon Feb 21 10:37:46 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@3daa35f4
+[Mon Feb 21 10:37:46 CET 2022] Deploying appli
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:46 +0100] "GET /dir/index.php HTTP/1.1" 404 581 - -
+[Mon Feb 21 10:37:46 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:46 +0100] "GET /dir/index.php HTTP/1.1" 404 581 - -
+[Mon Feb 21 10:37:46 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@669080ae, for path:/dir/*
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:50 +0100] "GET /dir HTTP/1.1" 302 682 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:50 +0100] "GET /dir/ HTTP/1.1" 200 869 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:50 +0100] "GET /dir/css/style.css HTTP/1.1" 200 1,768 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:50 +0100] "GET /dir/js/global.js HTTP/1.1" 200 2,053 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:51 +0100] "GET /dir/ HTTP/1.1" 200 869 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:51 +0100] "GET /dir/js/global.js HTTP/1.1" 200 2,053 - -
+[Mon Feb 21 10:37:52 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@669080ae
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:51 +0100] "GET /dir/css/style.css HTTP/1.1" 200 1,768 - -
+[Mon Feb 21 10:37:52 CET 2022] Deploying appli
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:52 +0100] "GET /dir/ HTTP/1.1" 404 581 - -
+[Mon Feb 21 10:37:52 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:52 +0100] "GET /dir/ HTTP/1.1" 404 581 - -
+[Mon Feb 21 10:37:52 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@1474270e, for path:/dir/*
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:52 +0100] "GET /dir/ HTTP/1.1" 200 869 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:52 +0100] "GET /dir/css/style.css HTTP/1.1" 200 1,768 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:52 +0100] "GET /dir/ HTTP/1.1" 200 869 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:52 +0100] "GET /dir/js/global.js HTTP/1.1" 200 2,053 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:52 +0100] "GET /dir/js/global.js HTTP/1.1" 200 2,053 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:52 +0100] "GET /dir/css/style.css HTTP/1.1" 200 1,768 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:54 +0100] "GET /dir/dir HTTP/1.1" 200 833 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:37:56 +0100] "GET /dir/dir HTTP/1.1" 200 2,773 - -
+[Mon Feb 21 10:37:57 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@1474270e
+[Mon Feb 21 10:37:57 CET 2022] Deploying appli
+[Mon Feb 21 10:37:57 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:37:57 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@5e695da0, for path:/dir/*
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:38:02 +0100] "GET /dir/index.php HTTP/1.1" 404 578 - -
+[Mon Feb 21 10:38:02 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@5e695da0
+[Mon Feb 21 10:38:02 CET 2022] Deploying appli
+[Mon Feb 21 10:38:03 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:38:03 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@430a8305, for path:/dir/*
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:38:05 +0100] "GET /dir HTTP/1.1" 302 682 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:38:05 +0100] "GET /dir/ HTTP/1.1" 200 869 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:38:05 +0100] "GET /dir/css/style.css HTTP/1.1" 200 1,768 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:38:05 +0100] "GET /dir/js/global.js HTTP/1.1" 200 2,053 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:38:08 +0100] "GET /dir/dir HTTP/1.1" 200 833 - -
+[Mon Feb 21 10:38:08 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@430a8305
+[Mon Feb 21 10:38:08 CET 2022] Deploying appli
+[Mon Feb 21 10:38:08 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:38:08 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@376b6911, for path:/dir/*
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:38:11 +0100] "GET /dir/dir HTTP/1.1" 200 2,773 - -
+[Mon Feb 21 10:38:13 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@376b6911
+[Mon Feb 21 10:38:13 CET 2022] Deploying appli
+[Mon Feb 21 10:38:13 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:38:14 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@7abf7aa1, for path:/dir/*
+[Mon Feb 21 10:38:19 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@7abf7aa1
+[Mon Feb 21 10:38:19 CET 2022] Deploying appli
+[Mon Feb 21 10:38:19 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:38:19 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@6ce614f8, for path:/dir/*
+[Mon Feb 21 10:38:24 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@6ce614f8
+[Mon Feb 21 10:38:24 CET 2022] Deploying appli
+[Mon Feb 21 10:38:24 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:38:24 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@3ecf7737, for path:/dir/*
+[Mon Feb 21 10:38:29 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@3ecf7737
+[Mon Feb 21 10:38:29 CET 2022] Deploying appli
+[Mon Feb 21 10:38:29 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:38:30 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@c3ab37c, for path:/dir/*
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:38:31 +0100] "GET /dir/dir HTTP/1.1" 200 2,326 - -
+[Mon Feb 21 10:38:35 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@c3ab37c
+[Mon Feb 21 10:38:35 CET 2022] Deploying appli
+[Mon Feb 21 10:38:35 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:38:35 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@5e354f15, for path:/dir/*
+[Mon Feb 21 10:38:40 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@5e354f15
+[Mon Feb 21 10:38:40 CET 2022] Deploying appli
+[Mon Feb 21 10:38:40 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:38:40 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@44f2e579, for path:/dir/*
+[Mon Feb 21 10:38:45 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@44f2e579
+[Mon Feb 21 10:38:45 CET 2022] Deploying appli
+[Mon Feb 21 10:38:46 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:38:46 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@8619c78, for path:/dir/*
+[Mon Feb 21 10:38:51 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@8619c78
+[Mon Feb 21 10:38:51 CET 2022] Deploying appli
+[Mon Feb 21 10:38:51 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:38:51 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@5217d92e, for path:/dir/*
+[Mon Feb 21 10:38:56 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@5217d92e
+[Mon Feb 21 10:38:56 CET 2022] Deploying appli
+[Mon Feb 21 10:38:56 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:38:57 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@6962d0c0, for path:/dir/*
+[Mon Feb 21 10:39:02 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@6962d0c0
+[Mon Feb 21 10:39:02 CET 2022] Deploying appli
+[Mon Feb 21 10:39:02 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:39:02 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@4741b97f, for path:/dir/*
+[Mon Feb 21 10:39:07 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@4741b97f
+[Mon Feb 21 10:39:07 CET 2022] Deploying appli
+[Mon Feb 21 10:39:07 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:39:07 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@66f033c, for path:/dir/*
+[Mon Feb 21 10:39:12 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@66f033c
+[Mon Feb 21 10:39:12 CET 2022] Deploying appli
+[Mon Feb 21 10:39:12 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:39:12 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@62d404eb, for path:/dir/*
+[Mon Feb 21 10:39:17 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@62d404eb
+[Mon Feb 21 10:39:17 CET 2022] Deploying appli
+[Mon Feb 21 10:39:18 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:39:18 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@1c680ba9, for path:/dir/*
+[Mon Feb 21 10:39:23 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@1c680ba9
+[Mon Feb 21 10:39:23 CET 2022] Deploying appli
+[Mon Feb 21 10:39:23 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:39:23 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@3acb2ae5, for path:/dir/*
+[Mon Feb 21 10:39:28 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@3acb2ae5
+[Mon Feb 21 10:39:28 CET 2022] Deploying appli
+[Mon Feb 21 10:39:28 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:39:28 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@37c11a93, for path:/dir/*
+[Mon Feb 21 10:39:33 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@37c11a93
+[Mon Feb 21 10:39:33 CET 2022] Deploying appli
+[Mon Feb 21 10:39:34 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:39:34 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@10771e8f, for path:/dir/*
+[Mon Feb 21 10:39:39 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@10771e8f
+[Mon Feb 21 10:39:39 CET 2022] Deploying appli
+[Mon Feb 21 10:39:39 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:39:39 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@69805622, for path:/dir/*
+[Mon Feb 21 10:39:44 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@69805622
+[Mon Feb 21 10:39:44 CET 2022] Deploying appli
+[Mon Feb 21 10:39:45 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:39:45 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@405f5538, for path:/dir/*
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:39:48 +0100] "GET /dir/ HTTP/1.1" 200 869 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:39:48 +0100] "GET /dir/js/global.js HTTP/1.1" 200 2,053 - -
+[Mon Feb 21 10:39:50 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@405f5538
+[Mon Feb 21 10:39:50 CET 2022] Deploying appli
+[Mon Feb 21 10:39:50 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:39:50 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@991012, for path:/dir/*
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:39:51 +0100] "GET /dir/ HTTP/1.1" 200 869 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:39:51 +0100] "GET /dir/ HTTP/1.1" 200 869 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:39:52 +0100] "GET /dir/ HTTP/1.1" 200 869 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:39:53 +0100] "GET /dir/ HTTP/1.1" 200 869 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:39:53 +0100] "GET /dir/ HTTP/1.1" 200 869 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:39:53 +0100] "GET /dir/ HTTP/1.1" 200 869 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:39:53 +0100] "GET /dir/ HTTP/1.1" 200 869 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:39:54 +0100] "GET /dir/ HTTP/1.1" 200 869 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:39:54 +0100] "GET /dir/ HTTP/1.1" 200 869 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:39:54 +0100] "GET /dir/ HTTP/1.1" 200 869 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:39:54 +0100] "GET /dir/ HTTP/1.1" 200 869 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:39:54 +0100] "GET /dir/ HTTP/1.1" 200 869 - -
+[Mon Feb 21 10:39:55 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@991012
+[Mon Feb 21 10:39:55 CET 2022] Deploying appli
+[Mon Feb 21 10:39:55 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:39:56 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@2d7edfc1, for path:/dir/*
+[Mon Feb 21 10:40:01 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@2d7edfc1
+[Mon Feb 21 10:40:01 CET 2022] Deploying appli
+[Mon Feb 21 10:40:01 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:40:01 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@65e65aa4, for path:/dir/*
+[Mon Feb 21 10:40:06 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@65e65aa4
+[Mon Feb 21 10:40:06 CET 2022] Deploying appli
+[Mon Feb 21 10:40:06 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:40:07 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@568dd0c9, for path:/dir/*
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:40:10 +0100] "GET /dir/ HTTP/1.1" 200 869 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:40:10 +0100] "GET /dir/js/global.js HTTP/1.1" 200 2,055 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:40:11 +0100] "GET /dir/ HTTP/1.1" 200 869 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:40:11 +0100] "GET /dir/dir HTTP/1.1" 200 833 - -
+[Mon Feb 21 10:40:12 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@568dd0c9
+[Mon Feb 21 10:40:12 CET 2022] Deploying appli
+[Mon Feb 21 10:40:12 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:40:12 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@337293bb, for path:/dir/*
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:40:13 +0100] "GET /dir/dir HTTP/1.1" 200 2,773 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:40:16 +0100] "GET /dir/dir HTTP/1.1" 200 412 - -
+[Mon Feb 21 10:40:17 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@337293bb
+[Mon Feb 21 10:40:17 CET 2022] Deploying appli
+[Mon Feb 21 10:40:17 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:40:17 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@633f44b1, for path:/dir/*
+[Mon Feb 21 10:40:22 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@633f44b1
+[Mon Feb 21 10:40:22 CET 2022] Deploying appli
+[Mon Feb 21 10:40:22 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:40:23 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@7ea161e6, for path:/dir/*
+[Mon Feb 21 10:40:28 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@7ea161e6
+[Mon Feb 21 10:40:28 CET 2022] Deploying appli
+[Mon Feb 21 10:40:28 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:40:28 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@173264f7, for path:/dir/*
+[Mon Feb 21 10:40:33 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@173264f7
+[Mon Feb 21 10:40:33 CET 2022] Deploying appli
+[Mon Feb 21 10:40:33 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:40:33 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@224be8c5, for path:/dir/*
+[Mon Feb 21 10:40:38 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@224be8c5
+[Mon Feb 21 10:40:38 CET 2022] Deploying appli
+[Mon Feb 21 10:40:39 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:40:39 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@3425e2db, for path:/dir/*
+[Mon Feb 21 10:40:44 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@3425e2db
+[Mon Feb 21 10:40:44 CET 2022] Deploying appli
+[Mon Feb 21 10:40:44 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:40:44 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@76368c15, for path:/dir/*
+[Mon Feb 21 10:40:49 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@76368c15
+[Mon Feb 21 10:40:49 CET 2022] Deploying appli
+[Mon Feb 21 10:40:49 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:40:49 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@7522cf41, for path:/dir/*
+[Mon Feb 21 10:40:54 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@7522cf41
+[Mon Feb 21 10:40:54 CET 2022] Deploying appli
+[Mon Feb 21 10:40:55 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:40:55 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@3e5ccc4, for path:/dir/*
+[Mon Feb 21 10:41:00 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@3e5ccc4
+[Mon Feb 21 10:41:00 CET 2022] Deploying appli
+[Mon Feb 21 10:41:00 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:41:00 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@7e4eb854, for path:/dir/*
+[Mon Feb 21 10:41:05 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@7e4eb854
+[Mon Feb 21 10:41:05 CET 2022] Deploying appli
+[Mon Feb 21 10:41:05 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:41:06 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@826655b, for path:/dir/*
+[Mon Feb 21 10:41:11 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@826655b
+[Mon Feb 21 10:41:11 CET 2022] Deploying appli
+[Mon Feb 21 10:41:11 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:41:11 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@2e55f430, for path:/dir/*
+[Mon Feb 21 10:41:16 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@2e55f430
+[Mon Feb 21 10:41:16 CET 2022] Deploying appli
+[Mon Feb 21 10:41:16 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:41:17 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@19b8995, for path:/dir/*
+[Mon Feb 21 10:41:22 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@19b8995
+[Mon Feb 21 10:41:22 CET 2022] Deploying appli
+[Mon Feb 21 10:41:22 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:41:22 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@4d0745f1, for path:/dir/*
+[Mon Feb 21 10:41:27 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@4d0745f1
+[Mon Feb 21 10:41:27 CET 2022] Deploying appli
+[Mon Feb 21 10:41:27 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:41:27 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@15ad92a6, for path:/dir/*
+[Mon Feb 21 10:41:32 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@15ad92a6
+[Mon Feb 21 10:41:32 CET 2022] Deploying appli
+[Mon Feb 21 10:41:32 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:41:33 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@1545b7fc, for path:/dir/*
+[Mon Feb 21 10:41:38 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@1545b7fc
+[Mon Feb 21 10:41:38 CET 2022] Deploying appli
+[Mon Feb 21 10:41:38 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:41:38 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@b080271, for path:/dir/*
+[Mon Feb 21 10:41:43 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@b080271
+[Mon Feb 21 10:41:43 CET 2022] Deploying appli
+[Mon Feb 21 10:41:43 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:41:43 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@25a7924c, for path:/dir/*
+[Mon Feb 21 10:41:48 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@25a7924c
+[Mon Feb 21 10:41:48 CET 2022] Deploying appli
+[Mon Feb 21 10:41:48 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:41:49 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@508dd9e4, for path:/dir/*
+[Mon Feb 21 10:41:54 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@508dd9e4
+[Mon Feb 21 10:41:54 CET 2022] Deploying appli
+[Mon Feb 21 10:41:54 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:41:54 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@8807ab9, for path:/dir/*
+[Mon Feb 21 10:41:59 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@8807ab9
+[Mon Feb 21 10:41:59 CET 2022] Deploying appli
+[Mon Feb 21 10:41:59 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:41:59 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@20a111fd, for path:/dir/*
+[Mon Feb 21 10:42:04 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@20a111fd
+[Mon Feb 21 10:42:04 CET 2022] Deploying appli
+[Mon Feb 21 10:42:04 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:42:05 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@33a5e6bc, for path:/dir/*
+[Mon Feb 21 10:42:10 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@33a5e6bc
+[Mon Feb 21 10:42:10 CET 2022] Deploying appli
+[Mon Feb 21 10:42:10 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:42:10 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@254f4161, for path:/dir/*
+[Mon Feb 21 10:42:15 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@254f4161
+[Mon Feb 21 10:42:15 CET 2022] Deploying appli
+[Mon Feb 21 10:42:15 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:42:15 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@266cf894, for path:/dir/*
+[Mon Feb 21 10:42:20 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@266cf894
+[Mon Feb 21 10:42:20 CET 2022] Deploying appli
+[Mon Feb 21 10:42:20 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:42:21 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@598345b4, for path:/dir/*
+[Mon Feb 21 10:42:26 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@598345b4
+[Mon Feb 21 10:42:26 CET 2022] Deploying appli
+[Mon Feb 21 10:42:26 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:42:26 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@6f018b14, for path:/dir/*
+[Mon Feb 21 10:42:31 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@6f018b14
+[Mon Feb 21 10:42:31 CET 2022] Deploying appli
+[Mon Feb 21 10:42:31 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:42:31 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@39033a3c, for path:/dir/*
+[Mon Feb 21 10:42:36 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@39033a3c
+[Mon Feb 21 10:42:36 CET 2022] Deploying appli
+[Mon Feb 21 10:42:36 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:42:36 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@89c5210, for path:/dir/*
+[Mon Feb 21 10:42:41 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@89c5210
+[Mon Feb 21 10:42:41 CET 2022] Deploying appli
+[Mon Feb 21 10:42:42 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:42:42 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@13f7347e, for path:/dir/*
+[Mon Feb 21 10:42:47 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@13f7347e
+[Mon Feb 21 10:42:47 CET 2022] Deploying appli
+[Mon Feb 21 10:42:47 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:42:47 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@24ea784, for path:/dir/*
+[Mon Feb 21 10:42:52 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@24ea784
+[Mon Feb 21 10:42:52 CET 2022] Deploying appli
+[Mon Feb 21 10:42:52 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:42:53 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@27951eb0, for path:/dir/*
+[Mon Feb 21 10:42:58 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@27951eb0
+[Mon Feb 21 10:42:58 CET 2022] Deploying appli
+[Mon Feb 21 10:42:58 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:42:58 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@63926591, for path:/dir/*
+[Mon Feb 21 10:43:03 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@63926591
+[Mon Feb 21 10:43:03 CET 2022] Deploying appli
+[Mon Feb 21 10:43:03 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:43:03 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@55848d59, for path:/dir/*
+[Mon Feb 21 10:43:08 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@55848d59
+[Mon Feb 21 10:43:08 CET 2022] Deploying appli
+[Mon Feb 21 10:43:08 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:43:08 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@3928c864, for path:/dir/*
+[Mon Feb 21 10:43:13 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@3928c864
+[Mon Feb 21 10:43:13 CET 2022] Deploying appli
+[Mon Feb 21 10:43:14 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:43:14 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@2606dc76, for path:/dir/*
+[Mon Feb 21 10:43:19 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@2606dc76
+[Mon Feb 21 10:43:19 CET 2022] Deploying appli
+[Mon Feb 21 10:43:19 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:43:19 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@5f26f45b, for path:/dir/*
+[Mon Feb 21 10:43:24 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@5f26f45b
+[Mon Feb 21 10:43:24 CET 2022] Deploying appli
+[Mon Feb 21 10:43:24 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:43:24 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@550dbef2, for path:/dir/*
+[Mon Feb 21 10:43:29 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@550dbef2
+[Mon Feb 21 10:43:29 CET 2022] Deploying appli
+[Mon Feb 21 10:43:30 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:43:30 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@845139b, for path:/dir/*
+[Mon Feb 21 10:43:35 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@845139b
+[Mon Feb 21 10:43:35 CET 2022] Deploying appli
+[Mon Feb 21 10:43:35 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:43:35 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@718e0f87, for path:/dir/*
+[Mon Feb 21 10:43:40 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@718e0f87
+[Mon Feb 21 10:43:40 CET 2022] Deploying appli
+[Mon Feb 21 10:43:41 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:43:41 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@6f1f6019, for path:/dir/*
+[Mon Feb 21 10:43:46 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@6f1f6019
+[Mon Feb 21 10:43:46 CET 2022] Deploying appli
+[Mon Feb 21 10:43:46 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:43:46 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@6489852d, for path:/dir/*
+[Mon Feb 21 10:43:51 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@6489852d
+[Mon Feb 21 10:43:51 CET 2022] Deploying appli
+[Mon Feb 21 10:43:51 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:43:51 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@4857d42e, for path:/dir/*
+[Mon Feb 21 10:43:56 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@4857d42e
+[Mon Feb 21 10:43:56 CET 2022] Deploying appli
+[Mon Feb 21 10:43:56 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:43:57 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@650dd3e7, for path:/dir/*
+[Mon Feb 21 10:44:02 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@650dd3e7
+[Mon Feb 21 10:44:02 CET 2022] Deploying appli
+[Mon Feb 21 10:44:02 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:44:02 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@6e9b184a, for path:/dir/*
+[Mon Feb 21 10:44:07 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@6e9b184a
+[Mon Feb 21 10:44:07 CET 2022] Deploying appli
+[Mon Feb 21 10:44:07 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:44:07 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@4a72d7f4, for path:/dir/*
+[Mon Feb 21 10:44:12 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@4a72d7f4
+[Mon Feb 21 10:44:12 CET 2022] Deploying appli
+[Mon Feb 21 10:44:13 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:44:13 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@40e15b60, for path:/dir/*
+[Mon Feb 21 10:44:18 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@40e15b60
+[Mon Feb 21 10:44:18 CET 2022] Deploying appli
+[Mon Feb 21 10:44:18 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:44:18 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@45ee5445, for path:/dir/*
+[Mon Feb 21 10:44:23 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@45ee5445
+[Mon Feb 21 10:44:23 CET 2022] Deploying appli
+[Mon Feb 21 10:44:23 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:44:24 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@eee95c1, for path:/dir/*
+[Mon Feb 21 10:44:29 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@eee95c1
+[Mon Feb 21 10:44:29 CET 2022] Deploying appli
+[Mon Feb 21 10:44:29 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:44:29 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@a8afe2a, for path:/dir/*
+[Mon Feb 21 10:44:34 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@a8afe2a
+[Mon Feb 21 10:44:34 CET 2022] Deploying appli
+[Mon Feb 21 10:44:34 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:44:34 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@7a2fce33, for path:/dir/*
+[Mon Feb 21 10:44:39 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@7a2fce33
+[Mon Feb 21 10:44:39 CET 2022] Deploying appli
+[Mon Feb 21 10:44:39 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:44:40 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@50adb3a9, for path:/dir/*
+[Mon Feb 21 10:44:45 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@50adb3a9
+[Mon Feb 21 10:44:45 CET 2022] Deploying appli
+[Mon Feb 21 10:44:45 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:44:45 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@54e0cf9f, for path:/dir/*
+[Mon Feb 21 10:44:50 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@54e0cf9f
+[Mon Feb 21 10:44:50 CET 2022] Deploying appli
+[Mon Feb 21 10:44:50 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:44:50 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@37f6123, for path:/dir/*
+[Mon Feb 21 10:44:55 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@37f6123
+[Mon Feb 21 10:44:55 CET 2022] Deploying appli
+[Mon Feb 21 10:44:55 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:44:56 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@1752e29a, for path:/dir/*
+[Mon Feb 21 10:45:01 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@1752e29a
+[Mon Feb 21 10:45:01 CET 2022] Deploying appli
+[Mon Feb 21 10:45:01 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:45:01 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@eb4dae9, for path:/dir/*
+[Mon Feb 21 10:45:06 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@eb4dae9
+[Mon Feb 21 10:45:06 CET 2022] Deploying appli
+[Mon Feb 21 10:45:06 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:45:06 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@5b43c7f2, for path:/dir/*
+[Mon Feb 21 10:45:11 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@5b43c7f2
+[Mon Feb 21 10:45:11 CET 2022] Deploying appli
+[Mon Feb 21 10:45:12 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:45:12 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@1f3a53fd, for path:/dir/*
+[Mon Feb 21 10:45:17 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@1f3a53fd
+[Mon Feb 21 10:45:17 CET 2022] Deploying appli
+[Mon Feb 21 10:45:17 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:45:17 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@6a565ef9, for path:/dir/*
+[Mon Feb 21 10:45:22 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@6a565ef9
+[Mon Feb 21 10:45:22 CET 2022] Deploying appli
+[Mon Feb 21 10:45:23 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:45:23 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@6695be94, for path:/dir/*
+[Mon Feb 21 10:45:28 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@6695be94
+[Mon Feb 21 10:45:28 CET 2022] Deploying appli
+[Mon Feb 21 10:45:28 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:45:28 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@15d7381c, for path:/dir/*
+[Mon Feb 21 10:45:33 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@15d7381c
+[Mon Feb 21 10:45:33 CET 2022] Deploying appli
+[Mon Feb 21 10:45:33 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:45:33 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@53e9788, for path:/dir/*
+[Mon Feb 21 10:45:38 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@53e9788
+[Mon Feb 21 10:45:38 CET 2022] Deploying appli
+[Mon Feb 21 10:45:39 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:45:39 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@2f459ddd, for path:/dir/*
+[Mon Feb 21 10:45:44 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@2f459ddd
+[Mon Feb 21 10:45:44 CET 2022] Deploying appli
+[Mon Feb 21 10:45:44 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:45:44 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@3a52b588, for path:/dir/*
+[Mon Feb 21 10:45:49 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@3a52b588
+[Mon Feb 21 10:45:49 CET 2022] Deploying appli
+[Mon Feb 21 10:45:50 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:45:50 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@74fb04b6, for path:/dir/*
+[Mon Feb 21 10:45:55 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@74fb04b6
+[Mon Feb 21 10:45:55 CET 2022] Deploying appli
+[Mon Feb 21 10:45:55 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:45:55 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@6b7a157f, for path:/dir/*
+[Mon Feb 21 10:46:00 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@6b7a157f
+[Mon Feb 21 10:46:00 CET 2022] Deploying appli
+[Mon Feb 21 10:46:00 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:46:01 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@25a57589, for path:/dir/*
+[Mon Feb 21 10:46:06 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@25a57589
+[Mon Feb 21 10:46:06 CET 2022] Deploying appli
+[Mon Feb 21 10:46:06 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:46:06 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@7198016e, for path:/dir/*
+[Mon Feb 21 10:46:11 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@7198016e
+[Mon Feb 21 10:46:11 CET 2022] Deploying appli
+[Mon Feb 21 10:46:11 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:46:11 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@7ee43dbd, for path:/dir/*
+[Mon Feb 21 10:46:16 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@7ee43dbd
+[Mon Feb 21 10:46:16 CET 2022] Deploying appli
+[Mon Feb 21 10:46:17 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:46:17 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@192fdd82, for path:/dir/*
+[Mon Feb 21 10:46:22 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@192fdd82
+[Mon Feb 21 10:46:22 CET 2022] Deploying appli
+[Mon Feb 21 10:46:22 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:46:22 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@2814e579, for path:/dir/*
+[Mon Feb 21 10:46:27 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@2814e579
+[Mon Feb 21 10:46:27 CET 2022] Deploying appli
+[Mon Feb 21 10:46:27 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:46:28 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@72104a18, for path:/dir/*
+[Mon Feb 21 10:46:33 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@72104a18
+[Mon Feb 21 10:46:33 CET 2022] Deploying appli
+[Mon Feb 21 10:46:33 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:46:33 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@5d66b230, for path:/dir/*
+[Mon Feb 21 10:46:38 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@5d66b230
+[Mon Feb 21 10:46:38 CET 2022] Deploying appli
+[Mon Feb 21 10:46:39 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:46:39 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@28dce502, for path:/dir/*
+[Mon Feb 21 10:46:44 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@28dce502
+[Mon Feb 21 10:46:44 CET 2022] Deploying appli
+[Mon Feb 21 10:46:44 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:46:44 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@571695e4, for path:/dir/*
+[Mon Feb 21 10:46:49 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@571695e4
+[Mon Feb 21 10:46:49 CET 2022] Deploying appli
+[Mon Feb 21 10:46:50 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:46:50 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@74859fcf, for path:/dir/*
+[Mon Feb 21 10:46:55 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@74859fcf
+[Mon Feb 21 10:46:55 CET 2022] Deploying appli
+[Mon Feb 21 10:46:55 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:46:55 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@6da37c86, for path:/dir/*
+[Mon Feb 21 10:47:00 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@6da37c86
+[Mon Feb 21 10:47:00 CET 2022] Deploying appli
+[Mon Feb 21 10:47:00 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:47:01 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@1838d272, for path:/dir/*
+[Mon Feb 21 10:47:06 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@1838d272
+[Mon Feb 21 10:47:06 CET 2022] Deploying appli
+[Mon Feb 21 10:47:06 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:47:06 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@29df65f3, for path:/dir/*
+[Mon Feb 21 10:47:11 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@29df65f3
+[Mon Feb 21 10:47:11 CET 2022] Deploying appli
+[Mon Feb 21 10:47:11 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:47:11 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@3a4599d5, for path:/dir/*
+[Mon Feb 21 10:47:16 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@3a4599d5
+[Mon Feb 21 10:47:16 CET 2022] Deploying appli
+[Mon Feb 21 10:47:16 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:47:17 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@79d3990b, for path:/dir/*
+[Mon Feb 21 10:47:22 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@79d3990b
+[Mon Feb 21 10:47:22 CET 2022] Deploying appli
+[Mon Feb 21 10:47:22 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:47:22 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@27ab4856, for path:/dir/*
+[Mon Feb 21 10:47:27 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@27ab4856
+[Mon Feb 21 10:47:27 CET 2022] Deploying appli
+[Mon Feb 21 10:47:27 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:47:27 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@26d8106b, for path:/dir/*
+[Mon Feb 21 10:47:32 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@26d8106b
+[Mon Feb 21 10:47:32 CET 2022] Deploying appli
+[Mon Feb 21 10:47:33 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:47:33 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@59ad63d2, for path:/dir/*
+[Mon Feb 21 10:47:38 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@59ad63d2
+[Mon Feb 21 10:47:38 CET 2022] Deploying appli
+[Mon Feb 21 10:47:38 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:47:38 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@2b0a97ea, for path:/dir/*
+[Mon Feb 21 10:47:43 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@2b0a97ea
+[Mon Feb 21 10:47:43 CET 2022] Deploying appli
+[Mon Feb 21 10:47:43 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:47:43 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@6174ecf2, for path:/dir/*
+[Mon Feb 21 10:47:48 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@6174ecf2
+[Mon Feb 21 10:47:48 CET 2022] Deploying appli
+[Mon Feb 21 10:47:49 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:47:49 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@6b5c1610, for path:/dir/*
+[Mon Feb 21 10:47:54 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@6b5c1610
+[Mon Feb 21 10:47:54 CET 2022] Deploying appli
+[Mon Feb 21 10:47:54 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:47:54 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@3e760f32, for path:/dir/*
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:47:56 +0100] "GET /dir/ HTTP/1.1" 200 869 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:47:56 +0100] "GET /dir/js/global.js HTTP/1.1" 200 2,190 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:47:57 +0100] "GET /dir/ HTTP/1.1" 200 869 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:47:57 +0100] "GET /dir/js/global.js HTTP/1.1" 200 2,190 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:47:59 +0100] "GET /dir/dir HTTP/1.1" 200 833 - -
+[Mon Feb 21 10:47:59 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@3e760f32
+[Mon Feb 21 10:47:59 CET 2022] Deploying appli
+[Mon Feb 21 10:47:59 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:48:00 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@51e722fc, for path:/dir/*
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:02 +0100] "GET /dir/dir HTTP/1.1" 200 591 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:02 +0100] "GET /dir/dir HTTP/1.1" 200 1,151 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:04 +0100] "GET /dir/dir HTTP/1.1" 200 591 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:04 +0100] "GET /dir/dir HTTP/1.1" 200 887 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:04 +0100] "GET /dir/dir HTTP/1.1" 200 1,762 - -
+[Mon Feb 21 10:48:05 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@51e722fc
+[Mon Feb 21 10:48:05 CET 2022] Deploying appli
+[Mon Feb 21 10:48:05 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:48:05 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@3416266d, for path:/dir/*
+[Mon Feb 21 10:48:10 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@3416266d
+[Mon Feb 21 10:48:10 CET 2022] Deploying appli
+[Mon Feb 21 10:48:10 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:48:10 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@78bc6918, for path:/dir/*
+[Mon Feb 21 10:48:16 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@78bc6918
+[Mon Feb 21 10:48:16 CET 2022] Deploying appli
+[Mon Feb 21 10:48:16 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:48:16 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@1994e585, for path:/dir/*
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:18 +0100] "GET /dir/dir HTTP/1.1" 200 591 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:18 +0100] "GET /dir/dir HTTP/1.1" 200 715 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:18 +0100] "GET /dir/dir HTTP/1.1" 200 618 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:18 +0100] "GET /dir/dir HTTP/1.1" 200 887 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:18 +0100] "GET /dir/dir HTTP/1.1" 200 1,762 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:19 +0100] "GET /dir/dir HTTP/1.1" 200 1,762 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:19 +0100] "GET /dir/dir HTTP/1.1" 200 591 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:19 +0100] "GET /dir/dir HTTP/1.1" 200 618 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:19 +0100] "GET /dir/dir HTTP/1.1" 200 883 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:19 +0100] "GET /dir/dir HTTP/1.1" 200 715 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:19 +0100] "GET /dir/dir HTTP/1.1" 200 887 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:19 +0100] "GET /dir/dir HTTP/1.1" 200 618 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:20 +0100] "GET /dir/dir HTTP/1.1" 200 715 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:19 +0100] "GET /dir/dir HTTP/1.1" 200 1,762 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:20 +0100] "GET /dir/dir HTTP/1.1" 200 715 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:19 +0100] "GET /dir/dir HTTP/1.1" 200 1,888 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:20 +0100] "GET /dir/dir HTTP/1.1" 200 1,762 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:20 +0100] "GET /dir/dir HTTP/1.1" 200 1,762 - -
+[Mon Feb 21 10:48:21 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@1994e585
+[Mon Feb 21 10:48:21 CET 2022] Deploying appli
+[Mon Feb 21 10:48:21 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:48:21 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@6e737308, for path:/dir/*
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:22 +0100] "GET /dir/dir HTTP/1.1" 200 715 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:22 +0100] "GET /dir/dir HTTP/1.1" 200 591 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:22 +0100] "GET /dir/dir HTTP/1.1" 200 883 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:22 +0100] "GET /dir/dir HTTP/1.1" 200 618 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:22 +0100] "GET /dir/dir HTTP/1.1" 200 887 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:22 +0100] "GET /dir/dir HTTP/1.1" 200 715 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:22 +0100] "GET /dir/dir HTTP/1.1" 200 751 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:22 +0100] "GET /dir/dir HTTP/1.1" 200 1,762 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:22 +0100] "GET /dir/dir HTTP/1.1" 200 883 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:22 +0100] "GET /dir/dir HTTP/1.1" 200 618 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:22 +0100] "GET /dir/dir HTTP/1.1" 200 715 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:22 +0100] "GET /dir/dir HTTP/1.1" 200 883 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:22 +0100] "GET /dir/dir HTTP/1.1" 200 715 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:22 +0100] "GET /dir/dir HTTP/1.1" 200 618 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:22 +0100] "GET /dir/dir HTTP/1.1" 200 1,888 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:22 +0100] "GET /dir/dir HTTP/1.1" 200 1,762 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:23 +0100] "GET /dir/dir HTTP/1.1" 200 715 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:23 +0100] "GET /dir/dir HTTP/1.1" 200 883 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:23 +0100] "GET /dir/dir HTTP/1.1" 200 715 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:23 +0100] "GET /dir/dir HTTP/1.1" 200 1,762 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:23 +0100] "GET /dir/dir HTTP/1.1" 200 1,888 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:23 +0100] "GET /dir/dir HTTP/1.1" 200 1,762 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:23 +0100] "GET /dir/dir HTTP/1.1" 200 1,888 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:22 +0100] "GET /dir/dir HTTP/1.1" 200 13,128 - -
+[Mon Feb 21 10:48:26 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@6e737308
+[Mon Feb 21 10:48:26 CET 2022] Deploying appli
+[Mon Feb 21 10:48:26 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:48:26 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@55badc2c, for path:/dir/*
+[Mon Feb 21 10:48:31 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@55badc2c
+[Mon Feb 21 10:48:31 CET 2022] Deploying appli
+[Mon Feb 21 10:48:32 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:48:32 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@5556f3a0, for path:/dir/*
+[Mon Feb 21 10:48:37 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@5556f3a0
+[Mon Feb 21 10:48:37 CET 2022] Deploying appli
+[Mon Feb 21 10:48:37 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:48:37 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@4b5978b1, for path:/dir/*
+[Mon Feb 21 10:48:42 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@4b5978b1
+[Mon Feb 21 10:48:42 CET 2022] Deploying appli
+[Mon Feb 21 10:48:42 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:48:42 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@4bbb5462, for path:/dir/*
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:45 +0100] "GET /dir/dir HTTP/1.1" 200 591 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:45 +0100] "GET /dir/dir HTTP/1.1" 200 715 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:45 +0100] "GET /dir/dir HTTP/1.1" 200 618 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:45 +0100] "GET /dir/dir HTTP/1.1" 200 887 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:45 +0100] "GET /dir/dir HTTP/1.1" 200 883 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:45 +0100] "GET /dir/dir HTTP/1.1" 200 1,762 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:45 +0100] "GET /dir/dir HTTP/1.1" 200 751 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:45 +0100] "GET /dir/dir HTTP/1.1" 200 928 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:45 +0100] "GET /dir/dir HTTP/1.1" 200 1,991 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:45 +0100] "GET /dir/dir HTTP/1.1" 200 715 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:45 +0100] "GET /dir/dir HTTP/1.1" 200 618 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:45 +0100] "GET /dir/dir HTTP/1.1" 200 883 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:45 +0100] "GET /dir/dir HTTP/1.1" 200 1,888 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:45 +0100] "GET /dir/dir HTTP/1.1" 200 715 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:45 +0100] "GET /dir/dir HTTP/1.1" 200 751 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:45 +0100] "GET /dir/dir HTTP/1.1" 200 1,762 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:45 +0100] "GET /dir/dir HTTP/1.1" 200 618 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:45 +0100] "GET /dir/dir HTTP/1.1" 200 883 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:46 +0100] "GET /dir/dir HTTP/1.1" 200 715 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:46 +0100] "GET /dir/dir HTTP/1.1" 200 751 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:46 +0100] "GET /dir/dir HTTP/1.1" 200 618 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:46 +0100] "GET /dir/dir HTTP/1.1" 200 1,762 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:45 +0100] "GET /dir/dir HTTP/1.1" 200 1,888 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:46 +0100] "GET /dir/dir HTTP/1.1" 200 715 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:46 +0100] "GET /dir/dir HTTP/1.1" 200 883 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:46 +0100] "GET /dir/dir HTTP/1.1" 200 751 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:46 +0100] "GET /dir/dir HTTP/1.1" 200 715 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:46 +0100] "GET /dir/dir HTTP/1.1" 200 883 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:46 +0100] "GET /dir/dir HTTP/1.1" 200 715 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:46 +0100] "GET /dir/dir HTTP/1.1" 200 1,762 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:46 +0100] "GET /dir/dir HTTP/1.1" 200 883 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:46 +0100] "GET /dir/dir HTTP/1.1" 200 715 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:46 +0100] "GET /dir/dir HTTP/1.1" 200 1,888 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:46 +0100] "GET /dir/dir HTTP/1.1" 200 1,762 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:46 +0100] "GET /dir/dir HTTP/1.1" 200 883 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:46 +0100] "GET /dir/dir HTTP/1.1" 200 715 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:46 +0100] "GET /dir/dir HTTP/1.1" 200 883 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:46 +0100] "GET /dir/dir HTTP/1.1" 200 715 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:46 +0100] "GET /dir/dir HTTP/1.1" 200 883 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:46 +0100] "GET /dir/dir HTTP/1.1" 200 883 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:45 +0100] "GET /dir/dir HTTP/1.1" 200 13,128 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:46 +0100] "GET /dir/dir HTTP/1.1" 200 1,888 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:45 +0100] "GET /dir/dir HTTP/1.1" 200 9,308 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:46 +0100] "GET /dir/dir HTTP/1.1" 200 1,888 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:46 +0100] "GET /dir/dir HTTP/1.1" 200 1,888 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:46 +0100] "GET /dir/dir HTTP/1.1" 200 13,128 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:46 +0100] "GET /dir/dir HTTP/1.1" 200 13,128 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:47 +0100] "GET /dir/dir HTTP/1.1" 200 13,128 - -
+[Mon Feb 21 10:48:47 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@4bbb5462
+[Mon Feb 21 10:48:47 CET 2022] Deploying appli
+[Mon Feb 21 10:48:48 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:47 +0100] "GET /dir/dir HTTP/1.1" 200 13,128 - -
+[Mon Feb 21 10:48:48 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@65b2413c, for path:/dir/*
+[Mon Feb 21 10:48:53 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@65b2413c
+[Mon Feb 21 10:48:53 CET 2022] Deploying appli
+[Mon Feb 21 10:48:53 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:48:53 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@4f54a647, for path:/dir/*
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:57 +0100] "GET /dir/dir HTTP/1.1" 200 591 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:57 +0100] "GET /dir/dir HTTP/1.1" 200 715 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:57 +0100] "GET /dir/dir HTTP/1.1" 200 618 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:57 +0100] "GET /dir/dir HTTP/1.1" 200 883 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:57 +0100] "GET /dir/dir HTTP/1.1" 200 887 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:57 +0100] "GET /dir/dir HTTP/1.1" 200 751 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:57 +0100] "GET /dir/dir HTTP/1.1" 200 928 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:57 +0100] "GET /dir/dir HTTP/1.1" 200 1,762 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:57 +0100] "GET /dir/dir HTTP/1.1" 200 1,073 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:57 +0100] "GET /dir/dir HTTP/1.1" 200 1,888 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:57 +0100] "GET /dir/dir HTTP/1.1" 200 715 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:57 +0100] "GET /dir/dir HTTP/1.1" 200 618 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:57 +0100] "GET /dir/dir HTTP/1.1" 200 883 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:57 +0100] "GET /dir/dir HTTP/1.1" 200 751 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:57 +0100] "GET /dir/dir HTTP/1.1" 200 928 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:57 +0100] "GET /dir/dir HTTP/1.1" 200 1,762 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:57 +0100] "GET /dir/dir HTTP/1.1" 200 1,888 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 200 715 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 200 618 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 200 883 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 200 751 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 200 928 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:57 +0100] "GET /dir/dir HTTP/1.1" 200 13,128 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:57 +0100] "GET /dir/dir HTTP/1.1" 200 9,308 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 200 1,762 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 200 715 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 200 618 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 200 883 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 200 1,888 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 200 751 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 200 928 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 200 715 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 200 1,762 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 200 618 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 200 883 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 200 751 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:57 +0100] "GET /dir/dir HTTP/1.1" 200 13,956 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 200 928 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 200 1,888 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 200 715 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:57 +0100] "GET /dir/dir HTTP/1.1" 200 14,416 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 200 883 - -
+[Mon Feb 21 10:48:58 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@4f54a647
+[Mon Feb 21 10:48:58 CET 2022] Deploying appli
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 200 751 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 200 1,762 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 200 1,888 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+[Mon Feb 21 10:48:58 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 200 13,128 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 200 9,308 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:48:58 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+[Mon Feb 21 10:48:58 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@190754c1, for path:/dir/*
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:03 +0100] "GET /dir/ HTTP/1.1" 200 869 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:03 +0100] "GET /dir/js/global.js HTTP/1.1" 200 2,190 - -
+[Mon Feb 21 10:49:03 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@190754c1
+[Mon Feb 21 10:49:03 CET 2022] Deploying appli
+[Mon Feb 21 10:49:04 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:49:04 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@4bd3b4c3, for path:/dir/*
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:04 +0100] "GET /dir/dir HTTP/1.1" 200 833 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:06 +0100] "GET /dir/dir HTTP/1.1" 200 591 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:06 +0100] "GET /dir/dir HTTP/1.1" 200 2,773 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:07 +0100] "GET /dir/dir HTTP/1.1" 200 591 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:08 +0100] "GET /dir/dir HTTP/1.1" 200 893 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:08 +0100] "GET /dir/dir HTTP/1.1" 200 1,762 - -
+[Mon Feb 21 10:49:09 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@4bd3b4c3
+[Mon Feb 21 10:49:09 CET 2022] Deploying appli
+[Mon Feb 21 10:49:09 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:49:09 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@44c258bd, for path:/dir/*
+[Mon Feb 21 10:49:14 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@44c258bd
+[Mon Feb 21 10:49:14 CET 2022] Deploying appli
+[Mon Feb 21 10:49:14 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:49:15 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@3aa7e35b, for path:/dir/*
+[Mon Feb 21 10:49:20 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@3aa7e35b
+[Mon Feb 21 10:49:20 CET 2022] Deploying appli
+[Mon Feb 21 10:49:20 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:49:20 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@4d6fc64e, for path:/dir/*
+[Mon Feb 21 10:49:25 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@4d6fc64e
+[Mon Feb 21 10:49:25 CET 2022] Deploying appli
+[Mon Feb 21 10:49:25 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:49:25 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@4b6a910b, for path:/dir/*
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:29 +0100] "GET /dir/dir HTTP/1.1" 200 621 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:29 +0100] "GET /dir/dir HTTP/1.1" 200 591 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:29 +0100] "GET /dir/dir HTTP/1.1" 200 715 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:29 +0100] "GET /dir/dir HTTP/1.1" 200 893 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:29 +0100] "GET /dir/dir HTTP/1.1" 200 1,762 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:30 +0100] "GET /dir/dir HTTP/1.1" 200 1,762 - -
+[Mon Feb 21 10:49:30 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@4b6a910b
+[Mon Feb 21 10:49:30 CET 2022] Deploying appli
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:30 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:30 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:30 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:30 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:30 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:30 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:30 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:30 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:30 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:30 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:30 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:30 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+[Mon Feb 21 10:49:30 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:49:31 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@346c4114, for path:/dir/*
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:31 +0100] "GET /dir/dir HTTP/1.1" 200 591 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:31 +0100] "GET /dir/dir HTTP/1.1" 200 621 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:31 +0100] "GET /dir/dir HTTP/1.1" 200 715 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:31 +0100] "GET /dir/dir HTTP/1.1" 200 893 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:31 +0100] "GET /dir/dir HTTP/1.1" 200 621 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:31 +0100] "GET /dir/dir HTTP/1.1" 200 1,762 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:31 +0100] "GET /dir/dir HTTP/1.1" 200 1,902 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:31 +0100] "GET /dir/dir HTTP/1.1" 200 715 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:31 +0100] "GET /dir/dir HTTP/1.1" 200 883 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:31 +0100] "GET /dir/dir HTTP/1.1" 200 715 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:31 +0100] "GET /dir/dir HTTP/1.1" 200 1,762 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:31 +0100] "GET /dir/dir HTTP/1.1" 200 1,762 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:33 +0100] "GET /dir/dir HTTP/1.1" 200 591 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:33 +0100] "GET /dir/dir HTTP/1.1" 200 621 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:33 +0100] "GET /dir/dir HTTP/1.1" 200 715 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:33 +0100] "GET /dir/dir HTTP/1.1" 200 893 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:33 +0100] "GET /dir/dir HTTP/1.1" 200 755 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:33 +0100] "GET /dir/dir HTTP/1.1" 200 1,762 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:33 +0100] "GET /dir/dir HTTP/1.1" 200 883 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:33 +0100] "GET /dir/dir HTTP/1.1" 200 1,902 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:33 +0100] "GET /dir/dir HTTP/1.1" 200 621 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:33 +0100] "GET /dir/dir HTTP/1.1" 200 715 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:33 +0100] "GET /dir/dir HTTP/1.1" 200 621 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:33 +0100] "GET /dir/dir HTTP/1.1" 200 883 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:33 +0100] "GET /dir/dir HTTP/1.1" 200 1,762 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:33 +0100] "GET /dir/dir HTTP/1.1" 200 715 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:33 +0100] "GET /dir/dir HTTP/1.1" 200 1,902 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:33 +0100] "GET /dir/dir HTTP/1.1" 200 883 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:33 +0100] "GET /dir/dir HTTP/1.1" 200 715 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:33 +0100] "GET /dir/dir HTTP/1.1" 200 883 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:33 +0100] "GET /dir/dir HTTP/1.1" 200 1,902 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:33 +0100] "GET /dir/dir HTTP/1.1" 200 1,762 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:33 +0100] "GET /dir/dir HTTP/1.1" 200 715 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:33 +0100] "GET /dir/dir HTTP/1.1" 200 715 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:33 +0100] "GET /dir/dir HTTP/1.1" 200 1,762 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:33 +0100] "GET /dir/dir HTTP/1.1" 200 13,128 - -
+[Mon Feb 21 10:49:36 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@346c4114
+[Mon Feb 21 10:49:36 CET 2022] Deploying appli
+[Mon Feb 21 10:49:36 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:49:36 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@70df6154, for path:/dir/*
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:37 +0100] "GET /dir/ HTTP/1.1" 200 869 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:37 +0100] "GET /dir/js/global.js HTTP/1.1" 200 2,190 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:39 +0100] "GET /dir/dir HTTP/1.1" 200 833 - -
+[Mon Feb 21 10:49:41 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@70df6154
+[Mon Feb 21 10:49:41 CET 2022] Deploying appli
+[Mon Feb 21 10:49:41 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:49:41 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@16cffc39, for path:/dir/*
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:43 +0100] "GET /dir/dir HTTP/1.1" 200 591 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:43 +0100] "GET /dir/dir HTTP/1.1" 200 2,773 - -
+[Mon Feb 21 10:49:46 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@16cffc39
+[Mon Feb 21 10:49:46 CET 2022] Deploying appli
+[Mon Feb 21 10:49:47 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:49:47 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@26a3604b, for path:/dir/*
+[Mon Feb 21 10:49:52 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@26a3604b
+[Mon Feb 21 10:49:52 CET 2022] Deploying appli
+[Mon Feb 21 10:49:52 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:49:52 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@52cf68a7, for path:/dir/*
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:53 +0100] "GET /dir/dir HTTP/1.1" 200 591 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:53 +0100] "GET /dir/dir HTTP/1.1" 200 893 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:49:53 +0100] "GET /dir/dir HTTP/1.1" 200 1,762 - -
+[Mon Feb 21 10:49:57 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@52cf68a7
+[Mon Feb 21 10:49:57 CET 2022] Deploying appli
+[Mon Feb 21 10:49:57 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:49:58 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@33b828ee, for path:/dir/*
+[Mon Feb 21 10:50:03 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@33b828ee
+[Mon Feb 21 10:50:03 CET 2022] Deploying appli
+[Mon Feb 21 10:50:03 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:50:03 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@3a53b52c, for path:/dir/*
+[Mon Feb 21 10:50:08 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@3a53b52c
+[Mon Feb 21 10:50:08 CET 2022] Deploying appli
+[Mon Feb 21 10:50:08 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:50:08 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@7e5d03c, for path:/dir/*
+[Mon Feb 21 10:50:13 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@7e5d03c
+[Mon Feb 21 10:50:13 CET 2022] Deploying appli
+[Mon Feb 21 10:50:14 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:50:14 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@6560535e, for path:/dir/*
+[Mon Feb 21 10:50:19 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@6560535e
+[Mon Feb 21 10:50:19 CET 2022] Deploying appli
+[Mon Feb 21 10:50:19 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:50:19 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@30cecdc5, for path:/dir/*
+[Mon Feb 21 10:50:24 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@30cecdc5
+[Mon Feb 21 10:50:24 CET 2022] Deploying appli
+[Mon Feb 21 10:50:24 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:50:24 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@3126750a, for path:/dir/*
+[Mon Feb 21 10:50:29 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@3126750a
+[Mon Feb 21 10:50:29 CET 2022] Deploying appli
+[Mon Feb 21 10:50:30 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:50:30 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@733f0543, for path:/dir/*
+[Mon Feb 21 10:50:35 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@733f0543
+[Mon Feb 21 10:50:35 CET 2022] Deploying appli
+[Mon Feb 21 10:50:35 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:50:35 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@3799dcea, for path:/dir/*
+[Mon Feb 21 10:50:40 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@3799dcea
+[Mon Feb 21 10:50:40 CET 2022] Deploying appli
+[Mon Feb 21 10:50:40 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:50:41 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@42ee04ce, for path:/dir/*
+[Mon Feb 21 10:50:46 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@42ee04ce
+[Mon Feb 21 10:50:46 CET 2022] Deploying appli
+[Mon Feb 21 10:50:46 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:50:46 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@7f3b2e0b, for path:/dir/*
+[Mon Feb 21 10:50:51 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@7f3b2e0b
+[Mon Feb 21 10:50:51 CET 2022] Deploying appli
+[Mon Feb 21 10:50:51 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:50:51 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@7e96d73c, for path:/dir/*
+[Mon Feb 21 10:50:56 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@7e96d73c
+[Mon Feb 21 10:50:56 CET 2022] Deploying appli
+[Mon Feb 21 10:50:56 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:50:57 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@28e5e5a, for path:/dir/*
+[Mon Feb 21 10:51:02 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@28e5e5a
+[Mon Feb 21 10:51:02 CET 2022] Deploying appli
+[Mon Feb 21 10:51:02 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:51:02 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@1b658676, for path:/dir/*
+[Mon Feb 21 10:51:07 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@1b658676
+[Mon Feb 21 10:51:07 CET 2022] Deploying appli
+[Mon Feb 21 10:51:07 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:51:07 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@77d8e8c5, for path:/dir/*
+[Mon Feb 21 10:51:12 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@77d8e8c5
+[Mon Feb 21 10:51:12 CET 2022] Deploying appli
+[Mon Feb 21 10:51:13 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:51:13 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@926ed4b, for path:/dir/*
+[Mon Feb 21 10:51:18 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@926ed4b
+[Mon Feb 21 10:51:18 CET 2022] Deploying appli
+[Mon Feb 21 10:51:18 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:51:18 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@1408ea30, for path:/dir/*
+[Mon Feb 21 10:51:23 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@1408ea30
+[Mon Feb 21 10:51:23 CET 2022] Deploying appli
+[Mon Feb 21 10:51:23 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:51:23 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@65c81bc8, for path:/dir/*
+[Mon Feb 21 10:51:28 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@65c81bc8
+[Mon Feb 21 10:51:28 CET 2022] Deploying appli
+[Mon Feb 21 10:51:29 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:51:29 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@4d284cd6, for path:/dir/*
+[Mon Feb 21 10:51:34 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@4d284cd6
+[Mon Feb 21 10:51:34 CET 2022] Deploying appli
+[Mon Feb 21 10:51:34 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:51:34 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@67fe1707, for path:/dir/*
+[Mon Feb 21 10:51:39 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@67fe1707
+[Mon Feb 21 10:51:39 CET 2022] Deploying appli
+[Mon Feb 21 10:51:39 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:51:40 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@3e57b2ad, for path:/dir/*
+[Mon Feb 21 10:51:45 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@3e57b2ad
+[Mon Feb 21 10:51:45 CET 2022] Deploying appli
+[Mon Feb 21 10:51:45 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:51:45 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@7bd8f674, for path:/dir/*
+[Mon Feb 21 10:51:50 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@7bd8f674
+[Mon Feb 21 10:51:50 CET 2022] Deploying appli
+[Mon Feb 21 10:51:51 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:51:51 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@11bb5d46, for path:/dir/*
+[Mon Feb 21 10:51:56 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@11bb5d46
+[Mon Feb 21 10:51:56 CET 2022] Deploying appli
+[Mon Feb 21 10:51:56 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:51:56 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@259414d1, for path:/dir/*
+[Mon Feb 21 10:52:01 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@259414d1
+[Mon Feb 21 10:52:01 CET 2022] Deploying appli
+[Mon Feb 21 10:52:01 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:52:02 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@70cfc577, for path:/dir/*
+[Mon Feb 21 10:52:07 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@70cfc577
+[Mon Feb 21 10:52:07 CET 2022] Deploying appli
+[Mon Feb 21 10:52:07 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:52:07 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@5810a4bb, for path:/dir/*
+[Mon Feb 21 10:52:12 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@5810a4bb
+[Mon Feb 21 10:52:12 CET 2022] Deploying appli
+[Mon Feb 21 10:52:12 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:52:12 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@74d4fa34, for path:/dir/*
+[Mon Feb 21 10:52:17 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@74d4fa34
+[Mon Feb 21 10:52:17 CET 2022] Deploying appli
+[Mon Feb 21 10:52:17 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:52:18 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@54e3c95, for path:/dir/*
+[Mon Feb 21 10:52:23 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@54e3c95
+[Mon Feb 21 10:52:23 CET 2022] Deploying appli
+[Mon Feb 21 10:52:23 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:52:23 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@540ef00e, for path:/dir/*
+[Mon Feb 21 10:52:28 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@540ef00e
+[Mon Feb 21 10:52:28 CET 2022] Deploying appli
+[Mon Feb 21 10:52:28 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:52:28 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@77b3dcf7, for path:/dir/*
+[Mon Feb 21 10:52:33 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@77b3dcf7
+[Mon Feb 21 10:52:33 CET 2022] Deploying appli
+[Mon Feb 21 10:52:34 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:52:34 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@586844e4, for path:/dir/*
+[Mon Feb 21 10:52:39 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@586844e4
+[Mon Feb 21 10:52:39 CET 2022] Deploying appli
+[Mon Feb 21 10:52:39 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:52:39 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@39793ede, for path:/dir/*
+[Mon Feb 21 10:52:44 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@39793ede
+[Mon Feb 21 10:52:44 CET 2022] Deploying appli
+[Mon Feb 21 10:52:44 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:52:44 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@5d578c3, for path:/dir/*
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:52:45 +0100] "GET /dir/ HTTP/1.1" 200 868 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:52:45 +0100] "GET /dir/js/global.js HTTP/1.1" 200 2,190 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:52:46 +0100] "GET /dir/ HTTP/1.1" 200 868 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:52:46 +0100] "GET /dir/ HTTP/1.1" 200 868 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:52:48 +0100] "GET /dir/dir HTTP/1.1" 200 2,457 - -
+[Mon Feb 21 10:52:49 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@5d578c3
+[Mon Feb 21 10:52:49 CET 2022] Deploying appli
+[Mon Feb 21 10:52:50 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:52:50 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@2d96b6a6, for path:/dir/*
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:52:54 +0100] "GET /dir/dir HTTP/1.1" 200 2,553 - -
+[Mon Feb 21 10:52:55 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@2d96b6a6
+[Mon Feb 21 10:52:55 CET 2022] Deploying appli
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:52:55 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:52:55 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:52:55 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+[Mon Feb 21 10:52:55 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:52:55 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@45175b, for path:/dir/*
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:52:56 +0100] "GET /dir/dir HTTP/1.1" 200 380 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:52:56 +0100] "GET /dir/dir HTTP/1.1" 200 2,649 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:52:56 +0100] "GET /dir/dir HTTP/1.1" 200 2,553 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:52:56 +0100] "GET /dir/ HTTP/1.1" 200 868 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:52:58 +0100] "GET /dir/dir HTTP/1.1" 200 2,457 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:52:59 +0100] "GET /dir/dir HTTP/1.1" 200 376 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:52:59 +0100] "GET /dir/dir HTTP/1.1" 200 2,553 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:00 +0100] "GET /dir/dir HTTP/1.1" 200 380 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:00 +0100] "GET /dir/dir HTTP/1.1" 200 2,553 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:00 +0100] "GET /dir/dir HTTP/1.1" 200 2,697 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:00 +0100] "GET /dir/dir HTTP/1.1" 200 2,649 - -
+[Mon Feb 21 10:53:00 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@45175b
+[Mon Feb 21 10:53:00 CET 2022] Deploying appli
+[Mon Feb 21 10:53:00 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:53:00 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@51e76021, for path:/dir/*
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:00 +0100] "GET /dir/dir HTTP/1.1" 200 384 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:00 +0100] "GET /dir/dir HTTP/1.1" 200 2,553 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:01 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:00 +0100] "GET /dir/dir HTTP/1.1" 200 2,793 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:00 +0100] "GET /dir/dir HTTP/1.1" 200 2,697 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:00 +0100] "GET /dir/dir HTTP/1.1" 200 2,793 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:00 +0100] "GET /dir/dir HTTP/1.1" 200 2,649 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:01 +0100] "GET /dir/dir HTTP/1.1" 200 2,649 - -
+[Mon Feb 21 10:53:05 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@51e76021
+[Mon Feb 21 10:53:05 CET 2022] Deploying appli
+[Mon Feb 21 10:53:05 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:53:06 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@20e27316, for path:/dir/*
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:07 +0100] "GET /dir/ HTTP/1.1" 200 868 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:08 +0100] "GET /dir/ HTTP/1.1" 200 868 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:09 +0100] "GET /dir/ HTTP/1.1" 200 868 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:10 +0100] "GET /dir/ HTTP/1.1" 200 868 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:10 +0100] "GET /dir/ HTTP/1.1" 200 868 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:10 +0100] "GET /dir/ HTTP/1.1" 200 868 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:10 +0100] "GET /dir/ HTTP/1.1" 200 868 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:10 +0100] "GET /dir/ HTTP/1.1" 200 868 - -
+[Mon Feb 21 10:53:11 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@20e27316
+[Mon Feb 21 10:53:11 CET 2022] Deploying appli
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:11 +0100] "GET /dir/ HTTP/1.1" 200 868 - -
+[Mon Feb 21 10:53:11 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:11 +0100] "GET /dir/ HTTP/1.1" 404 581 - -
+[Mon Feb 21 10:53:11 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@5273c2a5, for path:/dir/*
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:13 +0100] "GET /dir/ HTTP/1.1" 200 868 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:14 +0100] "GET /dir/dir HTTP/1.1" 200 2,457 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:15 +0100] "GET /dir/dir HTTP/1.1" 200 376 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:15 +0100] "GET /dir/dir HTTP/1.1" 200 2,553 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:16 +0100] "GET /dir/dir HTTP/1.1" 200 380 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:16 +0100] "GET /dir/dir HTTP/1.1" 200 2,697 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:16 +0100] "GET /dir/dir HTTP/1.1" 200 2,649 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:16 +0100] "GET /dir/dir HTTP/1.1" 200 2,553 - -
+[Mon Feb 21 10:53:16 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@5273c2a5
+[Mon Feb 21 10:53:16 CET 2022] Deploying appli
+[Mon Feb 21 10:53:16 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:53:16 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@78d877fb, for path:/dir/*
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:16 +0100] "GET /dir/dir HTTP/1.1" 200 380 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:16 +0100] "GET /dir/dir HTTP/1.1" 200 2,649 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:16 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:16 +0100] "GET /dir/dir HTTP/1.1" 200 2,793 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:16 +0100] "GET /dir/dir HTTP/1.1" 200 2,697 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:16 +0100] "GET /dir/dir HTTP/1.1" 200 2,553 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:16 +0100] "GET /dir/dir HTTP/1.1" 200 2,793 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:16 +0100] "GET /dir/dir HTTP/1.1" 200 2,649 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:17 +0100] "GET /dir/dir HTTP/1.1" 200 384 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:17 +0100] "GET /dir/dir HTTP/1.1" 200 2,553 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:17 +0100] "GET /dir/dir HTTP/1.1" 200 2,697 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:17 +0100] "GET /dir/dir HTTP/1.1" 200 2,649 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:17 +0100] "GET /dir/dir HTTP/1.1" 200 2,793 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:17 +0100] "GET /dir/dir HTTP/1.1" 200 2,793 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:17 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:17 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:17 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:17 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:17 +0100] "GET /dir/dir HTTP/1.1" 200 2,649 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:17 +0100] "GET /dir/dir HTTP/1.1" 200 2,793 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:17 +0100] "GET /dir/dir HTTP/1.1" 200 2,793 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:17 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:17 +0100] "GET /dir/dir HTTP/1.1" 200 2,649 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:17 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:17 +0100] "GET /dir/dir HTTP/1.1" 200 390 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:17 +0100] "GET /dir/dir HTTP/1.1" 200 2,793 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:17 +0100] "GET /dir/dir HTTP/1.1" 200 2,793 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:17 +0100] "GET /dir/dir HTTP/1.1" 200 2,649 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:17 +0100] "GET /dir/dir HTTP/1.1" 200 2,697 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:17 +0100] "GET /dir/dir HTTP/1.1" 200 2,553 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:17 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:17 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:17 +0100] "GET /dir/dir HTTP/1.1" 200 2,649 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:17 +0100] "GET /dir/dir HTTP/1.1" 200 2,793 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:17 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:17 +0100] "GET /dir/dir HTTP/1.1" 200 2,649 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:17 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:17 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:17 +0100] "GET /dir/dir HTTP/1.1" 200 2,793 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:17 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:17 +0100] "GET /dir/dir HTTP/1.1" 200 2,649 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:17 +0100] "GET /dir/dir HTTP/1.1" 200 2,793 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:17 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:17 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:17 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:17 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:17 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:17 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:17 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:17 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:17 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:17 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:17 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:17 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:17 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:17 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,553 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,697 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,649 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,793 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,793 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,649 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,793 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 12,115 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,649 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,793 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,793 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,649 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 3,033 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,649 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,793 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 3,033 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:18 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 1,285 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,553 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,697 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,649 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,793 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,793 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,649 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,793 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,793 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,649 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 3,033 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,793 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,649 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,649 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,793 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 3,033 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,649 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 1,771 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 2,793 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 3,129 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 3,177 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 3,129 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:19 +0100] "GET /dir/dir HTTP/1.1" 200 3,177 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 3,033 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 3,033 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 3,033 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 3,033 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 3,033 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:20 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,553 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,793 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,649 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,793 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,697 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,793 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,793 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 51,157 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,649 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,793 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,649 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 3,033 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,793 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,649 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 3,033 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,793 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,649 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 1,771 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 3,129 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 3,177 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 3,129 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 3,177 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 3,033 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,649 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 3,033 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 3,057 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,649 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,793 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 3,033 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 3,033 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 3,033 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+[Mon Feb 21 10:53:21 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@78d877fb
+[Mon Feb 21 10:53:21 CET 2022] Deploying appli
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+[Mon Feb 21 10:53:21 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:21 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+[Mon Feb 21 10:53:22 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@67be58ee, for path:/dir/*
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 404 581 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,129 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,793 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,177 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,033 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,177 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,129 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,793 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,649 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,177 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,177 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,033 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,129 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,793 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,649 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,177 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,177 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,033 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,793 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,129 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,649 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,057 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,129 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,033 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,793 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,177 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,177 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,129 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,225 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,057 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,273 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,225 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,273 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,177 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,649 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 1,836 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,033 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,177 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,177 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,129 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,649 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,177 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,033 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,177 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,129 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,177 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,177 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,033 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,177 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,129 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,129 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,129 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,129 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,033 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,177 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,889 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,033 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,033 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,985 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,033 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,033 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,033 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,033 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,033 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,033 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,033 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,033 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,033 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,033 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,033 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,033 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,033 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,033 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,033 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,033 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,033 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,033 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,033 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,033 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,033 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,033 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 3,081 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,841 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:22 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:23 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:23 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:23 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:23 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:23 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:23 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:23 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:23 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:23 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:23 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:23 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:23 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:23 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:23 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:23 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:23 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:23 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:23 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:23 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:23 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:23 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:23 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:23 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:23 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:23 +0100] "GET /dir/dir HTTP/1.1" 200 2,937 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:23 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:23 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:23 +0100] "GET /dir/dir HTTP/1.1" 200 2,745 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:24 +0100] "GET /dir/ HTTP/1.1" 200 868 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:24 +0100] "GET /dir/ HTTP/1.1" 200 868 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:24 +0100] "GET /dir/ HTTP/1.1" 200 868 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:25 +0100] "GET /dir/js/global.js HTTP/1.1" 200 2,190 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:25 +0100] "GET /dir/ HTTP/1.1" 200 868 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:10:53:26 +0100] "GET /dir/ HTTP/1.1" 200 868 - -
+[Mon Feb 21 10:53:27 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@67be58ee
+[Mon Feb 21 10:53:27 CET 2022] Deploying appli
+[Mon Feb 21 10:53:27 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:53:27 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@45533e32, for path:/dir/*
+[Mon Feb 21 10:53:32 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@45533e32
+[Mon Feb 21 10:53:32 CET 2022] Deploying appli
+[Mon Feb 21 10:53:32 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 10:53:32 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@7e702720, for path:/dir/*
+[Mon Feb 21 10:53:33 CET 2022] TJWS: Accept: java.io.IOException

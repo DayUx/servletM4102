@@ -20,7 +20,7 @@ public class Action extends HttpServlet {
             PrintWriter pw = response.getWriter();
             int val = Integer.parseInt(request.getParameter("entier"));
             json.put("entier", Math.sqrt(val));
-            response.setContentType("text/json");
+            response.setContentType("application/json");
             pw.println(json.toJSONString());
         }
     }
