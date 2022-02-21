@@ -2834,3 +2834,716 @@ java.io.FileNotFoundException: c (No such file or directory)
 [Mon Feb 21 18:12:48 CET 2022] Deploying appli
 [Mon Feb 21 18:12:48 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
 [Mon Feb 21 18:12:48 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@789fe61e, for path:/dir/*
+[Mon Feb 21 18:12:53 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@789fe61e
+[Mon Feb 21 18:12:53 CET 2022] Deploying appli
+[Mon Feb 21 18:12:53 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:12:53 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@629dc731, for path:/dir/*
+[Mon Feb 21 18:12:58 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@629dc731
+[Mon Feb 21 18:12:58 CET 2022] Deploying appli
+[Mon Feb 21 18:12:59 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:12:59 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@7ce3587a, for path:/dir/*
+[Mon Feb 21 18:13:04 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@7ce3587a
+[Mon Feb 21 18:13:04 CET 2022] Deploying appli
+[Mon Feb 21 18:13:04 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:13:04 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@13d4b354, for path:/dir/*
+[Mon Feb 21 18:13:09 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@13d4b354
+[Mon Feb 21 18:13:09 CET 2022] Deploying appli
+[Mon Feb 21 18:13:10 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:13:10 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@5d5f1855, for path:/dir/*
+[Mon Feb 21 18:13:15 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@5d5f1855
+[Mon Feb 21 18:13:15 CET 2022] Deploying appli
+[Mon Feb 21 18:13:15 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:13:16 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@7a30f67e, for path:/dir/*
+[Mon Feb 21 18:13:21 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@7a30f67e
+[Mon Feb 21 18:13:21 CET 2022] Deploying appli
+[Mon Feb 21 18:13:21 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:13:21 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@758a5e78, for path:/dir/*
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:18:13:23 +0100] "GET /dir/file HTTP/1.1" 200 441 - -
+[Mon Feb 21 18:13:26 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@758a5e78
+[Mon Feb 21 18:13:26 CET 2022] Deploying appli
+[Mon Feb 21 18:13:26 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:13:27 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@14311b09, for path:/dir/*
+[Mon Feb 21 18:13:32 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@14311b09
+[Mon Feb 21 18:13:32 CET 2022] Deploying appli
+[Mon Feb 21 18:13:32 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:13:32 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@1e0f64, for path:/dir/*
+[Mon Feb 21 18:13:37 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@1e0f64
+[Mon Feb 21 18:13:37 CET 2022] Deploying appli
+[Mon Feb 21 18:13:38 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:13:38 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@5c5acf9d, for path:/dir/*
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:18:13:38 +0100] "GET /dir/dir HTTP/1.1" 200 1,422 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:18:13:39 +0100] "GET /dir/dir HTTP/1.1" 200 876 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:18:13:39 +0100] "GET /dir/dir HTTP/1.1" 200 2,579 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:18:13:40 +0100] "GET /dir/dir HTTP/1.1" 200 956 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:18:13:41 +0100] "GET /dir/dir HTTP/1.1" 200 1,075 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:18:13:42 +0100] "GET /dir/dir HTTP/1.1" 200 14,196 - -
+[Mon Feb 21 18:13:43 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@5c5acf9d
+[Mon Feb 21 18:13:43 CET 2022] Deploying appli
+[Mon Feb 21 18:13:43 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:13:43 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@7b1582c2, for path:/dir/*
+[Mon Feb 21 18:13:48 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@7b1582c2
+[Mon Feb 21 18:13:48 CET 2022] Deploying appli
+[Mon Feb 21 18:13:49 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:13:49 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@7844687d, for path:/dir/*
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:18:13:53 +0100] "GET /dir/dir HTTP/1.1" 200 492 - -
+[Mon Feb 21 18:13:54 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@7844687d
+[Mon Feb 21 18:13:54 CET 2022] Deploying appli
+[Mon Feb 21 18:13:54 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:13:54 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@21137698, for path:/dir/*
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:18:13:55 +0100] "GET /dir/file HTTP/1.1" 200 784 - -
+[Mon Feb 21 18:13:59 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@21137698
+[Mon Feb 21 18:13:59 CET 2022] Deploying appli
+[Mon Feb 21 18:14:00 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:14:00 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@3cb8481b, for path:/dir/*
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:18:14:01 +0100] "GET /dir/dir HTTP/1.1" 200 14,196 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:18:14:03 +0100] "GET /dir/dir HTTP/1.1" 200 516 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:18:14:04 +0100] "GET /dir/dir HTTP/1.1" 200 891 - -
+[Mon Feb 21 18:14:05 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@3cb8481b
+[Mon Feb 21 18:14:05 CET 2022] Deploying appli
+[Mon Feb 21 18:14:05 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:14:06 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@4b810efd, for path:/dir/*
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:18:14:06 +0100] "GET /dir/dir HTTP/1.1" 200 370 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:18:14:07 +0100] "GET /dir/dir HTTP/1.1" 200 891 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:18:14:07 +0100] "GET /dir/dir HTTP/1.1" 200 516 - -
+/0:0:0:0:0:0:0:1:8040 - - [21/Feb/2022:18:14:08 +0100] "GET /dir/dir HTTP/1.1" 200 14,196 - -
+[Mon Feb 21 18:14:11 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@4b810efd
+[Mon Feb 21 18:14:11 CET 2022] Deploying appli
+[Mon Feb 21 18:14:11 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:14:11 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@409dd54, for path:/dir/*
+[Mon Feb 21 18:14:16 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@409dd54
+[Mon Feb 21 18:14:16 CET 2022] Deploying appli
+[Mon Feb 21 18:14:16 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:14:16 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@1b97542e, for path:/dir/*
+[Mon Feb 21 18:14:22 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@1b97542e
+[Mon Feb 21 18:14:22 CET 2022] Deploying appli
+[Mon Feb 21 18:14:22 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:14:22 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@1d10d11c, for path:/dir/*
+[Mon Feb 21 18:14:27 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@1d10d11c
+[Mon Feb 21 18:14:27 CET 2022] Deploying appli
+[Mon Feb 21 18:14:27 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:14:28 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@2e522c0a, for path:/dir/*
+[Mon Feb 21 18:14:33 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@2e522c0a
+[Mon Feb 21 18:14:33 CET 2022] Deploying appli
+[Mon Feb 21 18:14:33 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:14:33 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@74aeb17f, for path:/dir/*
+[Mon Feb 21 18:14:38 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@74aeb17f
+[Mon Feb 21 18:14:38 CET 2022] Deploying appli
+[Mon Feb 21 18:14:38 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:14:38 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@7f56f9d3, for path:/dir/*
+[Mon Feb 21 18:14:43 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@7f56f9d3
+[Mon Feb 21 18:14:43 CET 2022] Deploying appli
+[Mon Feb 21 18:14:44 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:14:44 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@36648ee2, for path:/dir/*
+[Mon Feb 21 18:14:49 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@36648ee2
+[Mon Feb 21 18:14:49 CET 2022] Deploying appli
+[Mon Feb 21 18:14:49 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:14:50 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@209d92fb, for path:/dir/*
+[Mon Feb 21 18:14:55 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@209d92fb
+[Mon Feb 21 18:14:55 CET 2022] Deploying appli
+[Mon Feb 21 18:14:55 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:14:55 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@57b68161, for path:/dir/*
+[Mon Feb 21 18:15:00 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@57b68161
+[Mon Feb 21 18:15:00 CET 2022] Deploying appli
+[Mon Feb 21 18:15:00 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:15:01 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@628f7ea1, for path:/dir/*
+[Mon Feb 21 18:15:06 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@628f7ea1
+[Mon Feb 21 18:15:06 CET 2022] Deploying appli
+[Mon Feb 21 18:15:06 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:15:06 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@29d4d394, for path:/dir/*
+[Mon Feb 21 18:15:11 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@29d4d394
+[Mon Feb 21 18:15:11 CET 2022] Deploying appli
+[Mon Feb 21 18:15:12 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:15:12 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@39aacb75, for path:/dir/*
+[Mon Feb 21 18:15:17 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@39aacb75
+[Mon Feb 21 18:15:17 CET 2022] Deploying appli
+[Mon Feb 21 18:15:17 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:15:17 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@b4aee53, for path:/dir/*
+[Mon Feb 21 18:15:22 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@b4aee53
+[Mon Feb 21 18:15:22 CET 2022] Deploying appli
+[Mon Feb 21 18:15:23 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:15:23 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@310a22d2, for path:/dir/*
+[Mon Feb 21 18:15:28 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@310a22d2
+[Mon Feb 21 18:15:28 CET 2022] Deploying appli
+[Mon Feb 21 18:15:28 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:15:28 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@7a75891b, for path:/dir/*
+[Mon Feb 21 18:15:33 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@7a75891b
+[Mon Feb 21 18:15:33 CET 2022] Deploying appli
+[Mon Feb 21 18:15:34 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:15:34 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@34f8d57, for path:/dir/*
+[Mon Feb 21 18:15:39 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@34f8d57
+[Mon Feb 21 18:15:39 CET 2022] Deploying appli
+[Mon Feb 21 18:15:39 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:15:39 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@2ebef7c9, for path:/dir/*
+[Mon Feb 21 18:15:44 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@2ebef7c9
+[Mon Feb 21 18:15:44 CET 2022] Deploying appli
+[Mon Feb 21 18:15:45 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:15:45 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@42b1b73b, for path:/dir/*
+[Mon Feb 21 18:15:50 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@42b1b73b
+[Mon Feb 21 18:15:50 CET 2022] Deploying appli
+[Mon Feb 21 18:15:50 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:15:50 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@7f4cb56d, for path:/dir/*
+[Mon Feb 21 18:15:55 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@7f4cb56d
+[Mon Feb 21 18:15:55 CET 2022] Deploying appli
+[Mon Feb 21 18:15:56 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:15:56 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@5f36f0e9, for path:/dir/*
+[Mon Feb 21 18:16:01 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@5f36f0e9
+[Mon Feb 21 18:16:01 CET 2022] Deploying appli
+[Mon Feb 21 18:16:01 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:16:01 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@1278fe0c, for path:/dir/*
+[Mon Feb 21 18:16:06 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@1278fe0c
+[Mon Feb 21 18:16:06 CET 2022] Deploying appli
+[Mon Feb 21 18:16:07 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:16:07 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@663ec590, for path:/dir/*
+[Mon Feb 21 18:16:12 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@663ec590
+[Mon Feb 21 18:16:12 CET 2022] Deploying appli
+[Mon Feb 21 18:16:12 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:16:12 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@384213e3, for path:/dir/*
+[Mon Feb 21 18:16:17 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@384213e3
+[Mon Feb 21 18:16:17 CET 2022] Deploying appli
+[Mon Feb 21 18:16:18 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:16:18 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@1ab374c, for path:/dir/*
+[Mon Feb 21 18:16:23 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@1ab374c
+[Mon Feb 21 18:16:23 CET 2022] Deploying appli
+[Mon Feb 21 18:16:23 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:16:23 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@3d964e24, for path:/dir/*
+[Mon Feb 21 18:16:28 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@3d964e24
+[Mon Feb 21 18:16:28 CET 2022] Deploying appli
+[Mon Feb 21 18:16:28 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:16:28 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@11651f7, for path:/dir/*
+[Mon Feb 21 18:16:33 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@11651f7
+[Mon Feb 21 18:16:33 CET 2022] Deploying appli
+[Mon Feb 21 18:16:34 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:16:34 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@723e7e43, for path:/dir/*
+[Mon Feb 21 18:16:39 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@723e7e43
+[Mon Feb 21 18:16:39 CET 2022] Deploying appli
+[Mon Feb 21 18:16:39 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:16:40 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@2bfeec46, for path:/dir/*
+[Mon Feb 21 18:16:45 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@2bfeec46
+[Mon Feb 21 18:16:45 CET 2022] Deploying appli
+[Mon Feb 21 18:16:45 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:16:45 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@43d9bd22, for path:/dir/*
+[Mon Feb 21 18:16:50 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@43d9bd22
+[Mon Feb 21 18:16:50 CET 2022] Deploying appli
+[Mon Feb 21 18:16:50 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:16:51 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@1daefd59, for path:/dir/*
+[Mon Feb 21 18:16:56 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@1daefd59
+[Mon Feb 21 18:16:56 CET 2022] Deploying appli
+[Mon Feb 21 18:16:56 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:16:56 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@734f2535, for path:/dir/*
+[Mon Feb 21 18:17:01 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@734f2535
+[Mon Feb 21 18:17:01 CET 2022] Deploying appli
+[Mon Feb 21 18:17:01 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:17:02 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@22c5aa4a, for path:/dir/*
+[Mon Feb 21 18:17:07 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@22c5aa4a
+[Mon Feb 21 18:17:07 CET 2022] Deploying appli
+[Mon Feb 21 18:17:07 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:17:07 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@36130282, for path:/dir/*
+[Mon Feb 21 18:17:12 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@36130282
+[Mon Feb 21 18:17:12 CET 2022] Deploying appli
+[Mon Feb 21 18:17:12 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:17:13 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@108cb326, for path:/dir/*
+[Mon Feb 21 18:17:18 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@108cb326
+[Mon Feb 21 18:17:18 CET 2022] Deploying appli
+[Mon Feb 21 18:17:18 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:17:18 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@572bed4e, for path:/dir/*
+[Mon Feb 21 18:17:23 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@572bed4e
+[Mon Feb 21 18:17:23 CET 2022] Deploying appli
+[Mon Feb 21 18:17:23 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:17:24 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@2638ed99, for path:/dir/*
+[Mon Feb 21 18:17:29 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@2638ed99
+[Mon Feb 21 18:17:29 CET 2022] Deploying appli
+[Mon Feb 21 18:17:29 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:17:29 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@6ea77eea, for path:/dir/*
+[Mon Feb 21 18:17:34 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@6ea77eea
+[Mon Feb 21 18:17:34 CET 2022] Deploying appli
+[Mon Feb 21 18:17:35 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:17:35 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@28d9781c, for path:/dir/*
+[Mon Feb 21 18:17:40 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@28d9781c
+[Mon Feb 21 18:17:40 CET 2022] Deploying appli
+[Mon Feb 21 18:17:40 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:17:40 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@7c4bee9c, for path:/dir/*
+[Mon Feb 21 18:17:45 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@7c4bee9c
+[Mon Feb 21 18:17:45 CET 2022] Deploying appli
+[Mon Feb 21 18:17:46 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:17:46 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@581a6195, for path:/dir/*
+[Mon Feb 21 18:17:51 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@581a6195
+[Mon Feb 21 18:17:51 CET 2022] Deploying appli
+[Mon Feb 21 18:17:51 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:17:52 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@76d60d04, for path:/dir/*
+[Mon Feb 21 18:17:57 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@76d60d04
+[Mon Feb 21 18:17:57 CET 2022] Deploying appli
+[Mon Feb 21 18:17:57 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:17:57 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@2dd08710, for path:/dir/*
+[Mon Feb 21 18:18:02 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@2dd08710
+[Mon Feb 21 18:18:02 CET 2022] Deploying appli
+[Mon Feb 21 18:18:02 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:18:03 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@29c0c423, for path:/dir/*
+[Mon Feb 21 18:18:08 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@29c0c423
+[Mon Feb 21 18:18:08 CET 2022] Deploying appli
+[Mon Feb 21 18:18:08 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:18:08 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@5f09b978, for path:/dir/*
+[Mon Feb 21 18:18:13 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@5f09b978
+[Mon Feb 21 18:18:13 CET 2022] Deploying appli
+[Mon Feb 21 18:18:13 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:18:14 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@7f240bbf, for path:/dir/*
+[Mon Feb 21 18:18:19 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@7f240bbf
+[Mon Feb 21 18:18:19 CET 2022] Deploying appli
+[Mon Feb 21 18:18:19 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:18:19 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@1e6bface, for path:/dir/*
+[Mon Feb 21 18:18:24 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@1e6bface
+[Mon Feb 21 18:18:24 CET 2022] Deploying appli
+[Mon Feb 21 18:18:24 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:18:24 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@4d959df1, for path:/dir/*
+[Mon Feb 21 18:18:29 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@4d959df1
+[Mon Feb 21 18:18:29 CET 2022] Deploying appli
+[Mon Feb 21 18:18:30 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:18:30 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@5cb7ae0e, for path:/dir/*
+[Mon Feb 21 18:18:35 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@5cb7ae0e
+[Mon Feb 21 18:18:35 CET 2022] Deploying appli
+[Mon Feb 21 18:18:35 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:18:35 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@4c12f1a9, for path:/dir/*
+[Mon Feb 21 18:18:40 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@4c12f1a9
+[Mon Feb 21 18:18:40 CET 2022] Deploying appli
+[Mon Feb 21 18:18:40 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:18:41 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@afaf0b2, for path:/dir/*
+[Mon Feb 21 18:18:46 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@afaf0b2
+[Mon Feb 21 18:18:46 CET 2022] Deploying appli
+[Mon Feb 21 18:18:46 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:18:46 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@2a4ba6c8, for path:/dir/*
+[Mon Feb 21 18:18:51 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@2a4ba6c8
+[Mon Feb 21 18:18:51 CET 2022] Deploying appli
+[Mon Feb 21 18:18:51 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:18:52 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@13dd69ce, for path:/dir/*
+[Mon Feb 21 18:18:57 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@13dd69ce
+[Mon Feb 21 18:18:57 CET 2022] Deploying appli
+[Mon Feb 21 18:18:57 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:18:57 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@25acb01, for path:/dir/*
+[Mon Feb 21 18:19:02 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@25acb01
+[Mon Feb 21 18:19:02 CET 2022] Deploying appli
+[Mon Feb 21 18:19:02 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:19:02 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@22ca7314, for path:/dir/*
+[Mon Feb 21 18:19:07 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@22ca7314
+[Mon Feb 21 18:19:07 CET 2022] Deploying appli
+[Mon Feb 21 18:19:07 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:19:08 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@a77046b, for path:/dir/*
+[Mon Feb 21 18:19:13 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@a77046b
+[Mon Feb 21 18:19:13 CET 2022] Deploying appli
+[Mon Feb 21 18:19:13 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:19:13 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@75e3a618, for path:/dir/*
+[Mon Feb 21 18:19:18 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@75e3a618
+[Mon Feb 21 18:19:18 CET 2022] Deploying appli
+[Mon Feb 21 18:19:19 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:19:19 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@4c6befa2, for path:/dir/*
+[Mon Feb 21 18:19:24 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@4c6befa2
+[Mon Feb 21 18:19:24 CET 2022] Deploying appli
+[Mon Feb 21 18:19:24 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:19:24 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@64159da0, for path:/dir/*
+[Mon Feb 21 18:19:29 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@64159da0
+[Mon Feb 21 18:19:29 CET 2022] Deploying appli
+[Mon Feb 21 18:19:30 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:19:30 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@5124d676, for path:/dir/*
+[Mon Feb 21 18:19:35 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@5124d676
+[Mon Feb 21 18:19:35 CET 2022] Deploying appli
+[Mon Feb 21 18:19:35 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:19:35 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@26b88ddd, for path:/dir/*
+[Mon Feb 21 18:19:40 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@26b88ddd
+[Mon Feb 21 18:19:40 CET 2022] Deploying appli
+[Mon Feb 21 18:19:40 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:19:41 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@1e133a3b, for path:/dir/*
+[Mon Feb 21 18:19:46 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@1e133a3b
+[Mon Feb 21 18:19:46 CET 2022] Deploying appli
+[Mon Feb 21 18:19:46 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:19:46 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@29b6d260, for path:/dir/*
+[Mon Feb 21 18:19:51 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@29b6d260
+[Mon Feb 21 18:19:51 CET 2022] Deploying appli
+[Mon Feb 21 18:19:51 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:19:52 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@54a31da5, for path:/dir/*
+[Mon Feb 21 18:19:57 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@54a31da5
+[Mon Feb 21 18:19:57 CET 2022] Deploying appli
+[Mon Feb 21 18:19:57 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:19:57 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@777923c9, for path:/dir/*
+[Mon Feb 21 18:20:02 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@777923c9
+[Mon Feb 21 18:20:02 CET 2022] Deploying appli
+[Mon Feb 21 18:20:02 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:20:03 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@736674b1, for path:/dir/*
+[Mon Feb 21 18:20:08 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@736674b1
+[Mon Feb 21 18:20:08 CET 2022] Deploying appli
+[Mon Feb 21 18:20:08 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:20:08 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@335be598, for path:/dir/*
+[Mon Feb 21 18:20:13 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@335be598
+[Mon Feb 21 18:20:13 CET 2022] Deploying appli
+[Mon Feb 21 18:20:13 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:20:14 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@4d05d9b3, for path:/dir/*
+[Mon Feb 21 18:20:19 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@4d05d9b3
+[Mon Feb 21 18:20:19 CET 2022] Deploying appli
+[Mon Feb 21 18:20:19 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:20:19 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@108c7ac4, for path:/dir/*
+[Mon Feb 21 18:20:24 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@108c7ac4
+[Mon Feb 21 18:20:24 CET 2022] Deploying appli
+[Mon Feb 21 18:20:24 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:20:25 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@4a8566c8, for path:/dir/*
+[Mon Feb 21 18:20:30 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@4a8566c8
+[Mon Feb 21 18:20:30 CET 2022] Deploying appli
+[Mon Feb 21 18:20:30 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:20:30 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@5e0ee6fb, for path:/dir/*
+[Mon Feb 21 18:20:35 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@5e0ee6fb
+[Mon Feb 21 18:20:35 CET 2022] Deploying appli
+[Mon Feb 21 18:20:35 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:20:36 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@430c79fe, for path:/dir/*
+[Mon Feb 21 18:20:41 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@430c79fe
+[Mon Feb 21 18:20:41 CET 2022] Deploying appli
+[Mon Feb 21 18:20:41 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:20:41 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@66eed48a, for path:/dir/*
+[Mon Feb 21 18:20:46 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@66eed48a
+[Mon Feb 21 18:20:46 CET 2022] Deploying appli
+[Mon Feb 21 18:20:46 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:20:47 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@58548cdc, for path:/dir/*
+[Mon Feb 21 18:20:52 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@58548cdc
+[Mon Feb 21 18:20:52 CET 2022] Deploying appli
+[Mon Feb 21 18:20:52 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:20:52 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@864b58b, for path:/dir/*
+[Mon Feb 21 18:20:57 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@864b58b
+[Mon Feb 21 18:20:57 CET 2022] Deploying appli
+[Mon Feb 21 18:20:58 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:20:58 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@1426f9a4, for path:/dir/*
+[Mon Feb 21 18:21:03 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@1426f9a4
+[Mon Feb 21 18:21:03 CET 2022] Deploying appli
+[Mon Feb 21 18:21:03 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:21:03 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@6b964bf4, for path:/dir/*
+[Mon Feb 21 18:21:08 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@6b964bf4
+[Mon Feb 21 18:21:08 CET 2022] Deploying appli
+[Mon Feb 21 18:21:09 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:21:09 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@18bc47a6, for path:/dir/*
+[Mon Feb 21 18:21:14 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@18bc47a6
+[Mon Feb 21 18:21:14 CET 2022] Deploying appli
+[Mon Feb 21 18:21:14 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:21:14 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@5b744548, for path:/dir/*
+[Mon Feb 21 18:21:19 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@5b744548
+[Mon Feb 21 18:21:19 CET 2022] Deploying appli
+[Mon Feb 21 18:21:20 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:21:20 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@53583e8d, for path:/dir/*
+[Mon Feb 21 18:21:25 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@53583e8d
+[Mon Feb 21 18:21:25 CET 2022] Deploying appli
+[Mon Feb 21 18:21:25 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:21:26 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@6b70e507, for path:/dir/*
+[Mon Feb 21 18:21:31 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@6b70e507
+[Mon Feb 21 18:21:31 CET 2022] Deploying appli
+[Mon Feb 21 18:21:31 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:21:31 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@3f1918b2, for path:/dir/*
+[Mon Feb 21 18:21:36 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@3f1918b2
+[Mon Feb 21 18:21:36 CET 2022] Deploying appli
+[Mon Feb 21 18:21:36 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:21:37 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@76ebe742, for path:/dir/*
+[Mon Feb 21 18:21:42 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@76ebe742
+[Mon Feb 21 18:21:42 CET 2022] Deploying appli
+[Mon Feb 21 18:21:42 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:21:42 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@75e950bd, for path:/dir/*
+[Mon Feb 21 18:21:47 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@75e950bd
+[Mon Feb 21 18:21:47 CET 2022] Deploying appli
+[Mon Feb 21 18:21:47 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:21:48 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@7c7bf324, for path:/dir/*
+[Mon Feb 21 18:21:53 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@7c7bf324
+[Mon Feb 21 18:21:53 CET 2022] Deploying appli
+[Mon Feb 21 18:21:53 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:21:53 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@12ed7cd0, for path:/dir/*
+[Mon Feb 21 18:21:58 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@12ed7cd0
+[Mon Feb 21 18:21:58 CET 2022] Deploying appli
+[Mon Feb 21 18:21:58 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:21:59 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@897bc6d, for path:/dir/*
+[Mon Feb 21 18:22:04 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@897bc6d
+[Mon Feb 21 18:22:04 CET 2022] Deploying appli
+[Mon Feb 21 18:22:04 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:22:04 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@4a808289, for path:/dir/*
+[Mon Feb 21 18:22:09 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@4a808289
+[Mon Feb 21 18:22:09 CET 2022] Deploying appli
+[Mon Feb 21 18:22:10 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:22:10 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@2ad1e9f1, for path:/dir/*
+[Mon Feb 21 18:22:15 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@2ad1e9f1
+[Mon Feb 21 18:22:15 CET 2022] Deploying appli
+[Mon Feb 21 18:22:15 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:22:15 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@32075632, for path:/dir/*
+[Mon Feb 21 18:22:20 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@32075632
+[Mon Feb 21 18:22:20 CET 2022] Deploying appli
+[Mon Feb 21 18:22:20 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:22:21 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@4d4d94ca, for path:/dir/*
+[Mon Feb 21 18:22:26 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@4d4d94ca
+[Mon Feb 21 18:22:26 CET 2022] Deploying appli
+[Mon Feb 21 18:22:26 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:22:26 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@342493f8, for path:/dir/*
+[Mon Feb 21 18:22:31 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@342493f8
+[Mon Feb 21 18:22:31 CET 2022] Deploying appli
+[Mon Feb 21 18:22:31 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:22:32 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@28130802, for path:/dir/*
+[Mon Feb 21 18:22:37 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@28130802
+[Mon Feb 21 18:22:37 CET 2022] Deploying appli
+[Mon Feb 21 18:22:37 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:22:37 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@3601bf2b, for path:/dir/*
+[Mon Feb 21 18:22:42 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@3601bf2b
+[Mon Feb 21 18:22:42 CET 2022] Deploying appli
+[Mon Feb 21 18:22:42 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:22:42 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@1d9aa526, for path:/dir/*
+[Mon Feb 21 18:22:47 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@1d9aa526
+[Mon Feb 21 18:22:47 CET 2022] Deploying appli
+[Mon Feb 21 18:22:47 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:22:48 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@346c62ce, for path:/dir/*
+[Mon Feb 21 18:22:53 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@346c62ce
+[Mon Feb 21 18:22:53 CET 2022] Deploying appli
+[Mon Feb 21 18:22:53 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:22:53 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@2ab44361, for path:/dir/*
+[Mon Feb 21 18:22:58 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@2ab44361
+[Mon Feb 21 18:22:58 CET 2022] Deploying appli
+[Mon Feb 21 18:22:58 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:22:59 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@1e5f45e2, for path:/dir/*
+[Mon Feb 21 18:23:04 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@1e5f45e2
+[Mon Feb 21 18:23:04 CET 2022] Deploying appli
+[Mon Feb 21 18:23:04 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:23:04 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@3454fcee, for path:/dir/*
+[Mon Feb 21 18:23:09 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@3454fcee
+[Mon Feb 21 18:23:09 CET 2022] Deploying appli
+[Mon Feb 21 18:23:10 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:23:10 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@490e8abe, for path:/dir/*
+[Mon Feb 21 18:23:15 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@490e8abe
+[Mon Feb 21 18:23:15 CET 2022] Deploying appli
+[Mon Feb 21 18:23:15 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:23:15 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@74a783d1, for path:/dir/*
+[Mon Feb 21 18:23:20 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@74a783d1
+[Mon Feb 21 18:23:20 CET 2022] Deploying appli
+[Mon Feb 21 18:23:21 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:23:21 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@40c669c, for path:/dir/*
+[Mon Feb 21 18:23:26 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@40c669c
+[Mon Feb 21 18:23:26 CET 2022] Deploying appli
+[Mon Feb 21 18:23:26 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:23:26 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@2fa89db2, for path:/dir/*
+[Mon Feb 21 18:23:31 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@2fa89db2
+[Mon Feb 21 18:23:31 CET 2022] Deploying appli
+[Mon Feb 21 18:23:31 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:23:32 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@1caf547b, for path:/dir/*
+[Mon Feb 21 18:23:37 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@1caf547b
+[Mon Feb 21 18:23:37 CET 2022] Deploying appli
+[Mon Feb 21 18:23:37 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:23:37 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@6bd7c26b, for path:/dir/*
+[Mon Feb 21 18:23:42 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@6bd7c26b
+[Mon Feb 21 18:23:42 CET 2022] Deploying appli
+[Mon Feb 21 18:23:43 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:23:43 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@48d4b50d, for path:/dir/*
+[Mon Feb 21 18:23:48 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@48d4b50d
+[Mon Feb 21 18:23:48 CET 2022] Deploying appli
+[Mon Feb 21 18:23:48 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:23:48 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@773f5024, for path:/dir/*
+[Mon Feb 21 18:23:53 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@773f5024
+[Mon Feb 21 18:23:53 CET 2022] Deploying appli
+[Mon Feb 21 18:23:54 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:23:54 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@63bf28c5, for path:/dir/*
+[Mon Feb 21 18:23:59 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@63bf28c5
+[Mon Feb 21 18:23:59 CET 2022] Deploying appli
+[Mon Feb 21 18:23:59 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:24:00 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@5762c573, for path:/dir/*
+[Mon Feb 21 18:24:05 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@5762c573
+[Mon Feb 21 18:24:05 CET 2022] Deploying appli
+[Mon Feb 21 18:24:05 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:24:05 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@22056a5d, for path:/dir/*
+[Mon Feb 21 18:24:10 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@22056a5d
+[Mon Feb 21 18:24:10 CET 2022] Deploying appli
+[Mon Feb 21 18:24:10 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:24:11 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@2af3d343, for path:/dir/*
+[Mon Feb 21 18:24:16 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@2af3d343
+[Mon Feb 21 18:24:16 CET 2022] Deploying appli
+[Mon Feb 21 18:24:16 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:24:16 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@38016d01, for path:/dir/*
+[Mon Feb 21 18:24:21 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@38016d01
+[Mon Feb 21 18:24:21 CET 2022] Deploying appli
+[Mon Feb 21 18:24:21 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:24:21 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@44ca7612, for path:/dir/*
+[Mon Feb 21 18:24:26 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@44ca7612
+[Mon Feb 21 18:24:26 CET 2022] Deploying appli
+[Mon Feb 21 18:24:27 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:24:27 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@ef890c, for path:/dir/*
+[Mon Feb 21 18:24:32 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@ef890c
+[Mon Feb 21 18:24:32 CET 2022] Deploying appli
+[Mon Feb 21 18:24:32 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:24:32 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@4534531d, for path:/dir/*
+[Mon Feb 21 18:24:37 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@4534531d
+[Mon Feb 21 18:24:37 CET 2022] Deploying appli
+[Mon Feb 21 18:24:38 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:24:38 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@36e09b1d, for path:/dir/*
+[Mon Feb 21 18:24:43 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@36e09b1d
+[Mon Feb 21 18:24:43 CET 2022] Deploying appli
+[Mon Feb 21 18:24:43 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:24:43 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@637ef481, for path:/dir/*
+[Mon Feb 21 18:24:48 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@637ef481
+[Mon Feb 21 18:24:48 CET 2022] Deploying appli
+[Mon Feb 21 18:24:49 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:24:49 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@5b1126bc, for path:/dir/*
+[Mon Feb 21 18:24:54 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@5b1126bc
+[Mon Feb 21 18:24:54 CET 2022] Deploying appli
+[Mon Feb 21 18:24:54 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:24:54 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@2cb3c99e, for path:/dir/*
+[Mon Feb 21 18:24:59 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@2cb3c99e
+[Mon Feb 21 18:24:59 CET 2022] Deploying appli
+[Mon Feb 21 18:25:00 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:25:00 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@2e94f9b9, for path:/dir/*
+[Mon Feb 21 18:25:05 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@2e94f9b9
+[Mon Feb 21 18:25:05 CET 2022] Deploying appli
+[Mon Feb 21 18:25:05 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:25:06 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@2f3053a9, for path:/dir/*
+[Mon Feb 21 18:25:11 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@2f3053a9
+[Mon Feb 21 18:25:11 CET 2022] Deploying appli
+[Mon Feb 21 18:25:11 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:25:11 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@256592d7, for path:/dir/*
+[Mon Feb 21 18:25:16 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@256592d7
+[Mon Feb 21 18:25:16 CET 2022] Deploying appli
+[Mon Feb 21 18:25:16 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:25:17 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@6011081c, for path:/dir/*
+[Mon Feb 21 18:25:22 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@6011081c
+[Mon Feb 21 18:25:22 CET 2022] Deploying appli
+[Mon Feb 21 18:25:22 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:25:22 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@1dd7638e, for path:/dir/*
+[Mon Feb 21 18:25:27 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@1dd7638e
+[Mon Feb 21 18:25:27 CET 2022] Deploying appli
+[Mon Feb 21 18:25:27 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:25:27 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@131e8409, for path:/dir/*
+[Mon Feb 21 18:25:32 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@131e8409
+[Mon Feb 21 18:25:32 CET 2022] Deploying appli
+[Mon Feb 21 18:25:33 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:25:33 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@3bae7627, for path:/dir/*
+[Mon Feb 21 18:25:38 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@3bae7627
+[Mon Feb 21 18:25:38 CET 2022] Deploying appli
+[Mon Feb 21 18:25:38 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:25:38 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@a983e23, for path:/dir/*
+[Mon Feb 21 18:25:43 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@a983e23
+[Mon Feb 21 18:25:43 CET 2022] Deploying appli
+[Mon Feb 21 18:25:44 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:25:44 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@6bc22353, for path:/dir/*
+[Mon Feb 21 18:25:49 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@6bc22353
+[Mon Feb 21 18:25:49 CET 2022] Deploying appli
+[Mon Feb 21 18:25:49 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:25:49 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@15c7aedf, for path:/dir/*
+[Mon Feb 21 18:25:54 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@15c7aedf
+[Mon Feb 21 18:25:54 CET 2022] Deploying appli
+[Mon Feb 21 18:25:55 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:25:55 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@2d26e660, for path:/dir/*
+[Mon Feb 21 18:26:00 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@2d26e660
+[Mon Feb 21 18:26:00 CET 2022] Deploying appli
+[Mon Feb 21 18:26:00 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:26:01 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@57676c03, for path:/dir/*
+[Mon Feb 21 18:26:06 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@57676c03
+[Mon Feb 21 18:26:06 CET 2022] Deploying appli
+[Mon Feb 21 18:26:06 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:26:07 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@62b5b6d4, for path:/dir/*
+[Mon Feb 21 18:26:12 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@62b5b6d4
+[Mon Feb 21 18:26:12 CET 2022] Deploying appli
+[Mon Feb 21 18:26:12 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:26:12 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@34fb229, for path:/dir/*
+[Mon Feb 21 18:26:17 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@34fb229
+[Mon Feb 21 18:26:17 CET 2022] Deploying appli
+[Mon Feb 21 18:26:17 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:26:17 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@274879f9, for path:/dir/*
+[Mon Feb 21 18:26:22 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@274879f9
+[Mon Feb 21 18:26:22 CET 2022] Deploying appli
+[Mon Feb 21 18:26:23 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:26:23 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@74f31e93, for path:/dir/*
+[Mon Feb 21 18:26:28 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@74f31e93
+[Mon Feb 21 18:26:28 CET 2022] Deploying appli
+[Mon Feb 21 18:26:28 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:26:28 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@776d4260, for path:/dir/*
+[Mon Feb 21 18:26:33 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@776d4260
+[Mon Feb 21 18:26:33 CET 2022] Deploying appli
+[Mon Feb 21 18:26:34 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:26:34 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@34b1a795, for path:/dir/*
+[Mon Feb 21 18:26:39 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@34b1a795
+[Mon Feb 21 18:26:39 CET 2022] Deploying appli
+[Mon Feb 21 18:26:39 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:26:39 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@64c4dbb3, for path:/dir/*
+[Mon Feb 21 18:26:44 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@64c4dbb3
+[Mon Feb 21 18:26:44 CET 2022] Deploying appli
+[Mon Feb 21 18:26:45 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:26:45 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@7604389, for path:/dir/*
+[Mon Feb 21 18:26:50 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@7604389
+[Mon Feb 21 18:26:50 CET 2022] Deploying appli
+[Mon Feb 21 18:26:50 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:26:51 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@3f99f465, for path:/dir/*
+[Mon Feb 21 18:26:56 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@3f99f465
+[Mon Feb 21 18:26:56 CET 2022] Deploying appli
+[Mon Feb 21 18:26:56 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:26:56 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@61e85b82, for path:/dir/*
+[Mon Feb 21 18:27:01 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@61e85b82
+[Mon Feb 21 18:27:01 CET 2022] Deploying appli
+[Mon Feb 21 18:27:01 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:27:02 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@566cf5da, for path:/dir/*
+[Mon Feb 21 18:27:07 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@566cf5da
+[Mon Feb 21 18:27:07 CET 2022] Deploying appli
+[Mon Feb 21 18:27:07 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:27:07 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@25f3df71, for path:/dir/*
+[Mon Feb 21 18:27:12 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@25f3df71
+[Mon Feb 21 18:27:12 CET 2022] Deploying appli
+[Mon Feb 21 18:27:12 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:27:13 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@37c1f222, for path:/dir/*
+[Mon Feb 21 18:27:18 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@37c1f222
+[Mon Feb 21 18:27:18 CET 2022] Deploying appli
+[Mon Feb 21 18:27:18 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:27:18 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@78c319d3, for path:/dir/*
+[Mon Feb 21 18:27:23 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@78c319d3
+[Mon Feb 21 18:27:23 CET 2022] Deploying appli
+[Mon Feb 21 18:27:23 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:27:24 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@1716f504, for path:/dir/*
+[Mon Feb 21 18:27:29 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@1716f504
+[Mon Feb 21 18:27:29 CET 2022] Deploying appli
+[Mon Feb 21 18:27:29 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:27:29 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@7e4e52e6, for path:/dir/*
+[Mon Feb 21 18:27:34 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@7e4e52e6
+[Mon Feb 21 18:27:34 CET 2022] Deploying appli
+[Mon Feb 21 18:27:34 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:27:35 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@ab1baa3, for path:/dir/*
+[Mon Feb 21 18:27:40 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@ab1baa3
+[Mon Feb 21 18:27:40 CET 2022] Deploying appli
+[Mon Feb 21 18:27:40 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:27:40 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@1adc59a9, for path:/dir/*
+[Mon Feb 21 18:27:45 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@1adc59a9
+[Mon Feb 21 18:27:45 CET 2022] Deploying appli
+[Mon Feb 21 18:27:45 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:27:46 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@7eed8bdd, for path:/dir/*
+[Mon Feb 21 18:27:51 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@7eed8bdd
+[Mon Feb 21 18:27:51 CET 2022] Deploying appli
+[Mon Feb 21 18:27:51 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:27:51 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@34ae6739, for path:/dir/*
+[Mon Feb 21 18:27:56 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@34ae6739
+[Mon Feb 21 18:27:56 CET 2022] Deploying appli
+[Mon Feb 21 18:27:56 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:27:57 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@5af12ed0, for path:/dir/*
+[Mon Feb 21 18:28:02 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@5af12ed0
+[Mon Feb 21 18:28:02 CET 2022] Deploying appli
+[Mon Feb 21 18:28:02 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:28:02 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@512ff29c, for path:/dir/*
+[Mon Feb 21 18:28:07 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@512ff29c
+[Mon Feb 21 18:28:07 CET 2022] Deploying appli
+[Mon Feb 21 18:28:07 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:28:08 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@3a78a361, for path:/dir/*
+[Mon Feb 21 18:28:13 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@3a78a361
+[Mon Feb 21 18:28:13 CET 2022] Deploying appli
+[Mon Feb 21 18:28:13 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:28:13 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@18954d2e, for path:/dir/*
+[Mon Feb 21 18:28:18 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@18954d2e
+[Mon Feb 21 18:28:18 CET 2022] Deploying appli
+[Mon Feb 21 18:28:18 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:28:19 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@5d5d593f, for path:/dir/*
+[Mon Feb 21 18:28:24 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@5d5d593f
+[Mon Feb 21 18:28:24 CET 2022] Deploying appli
+[Mon Feb 21 18:28:24 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:28:24 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@52ad6259, for path:/dir/*
+[Mon Feb 21 18:28:29 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@52ad6259
+[Mon Feb 21 18:28:29 CET 2022] Deploying appli
+[Mon Feb 21 18:28:29 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:28:30 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@52517f66, for path:/dir/*
+[Mon Feb 21 18:28:35 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@52517f66
+[Mon Feb 21 18:28:35 CET 2022] Deploying appli
+[Mon Feb 21 18:28:35 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:28:35 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@371833d3, for path:/dir/*
+[Mon Feb 21 18:28:40 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@371833d3
+[Mon Feb 21 18:28:40 CET 2022] Deploying appli
+[Mon Feb 21 18:28:40 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:28:41 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@4ca94726, for path:/dir/*
+[Mon Feb 21 18:28:46 CET 2022] TJWS: invalidated 0 sessions for context rogatkin.web.WebAppServlet@4ca94726
+[Mon Feb 21 18:28:46 CET 2022] Deploying appli
+[Mon Feb 21 18:28:46 CET 2022] dir> No JSP engine specified, Apache Jasper is assumed by default
+[Mon Feb 21 18:28:46 CET 2022] TJWS: Servlet overriden by rogatkin.web.WebAppServlet@68636f93, for path:/dir/*
+[Mon Feb 21 18:28:48 CET 2022] TJWS: Accept: java.io.IOException

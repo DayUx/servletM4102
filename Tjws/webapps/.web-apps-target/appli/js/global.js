@@ -73,7 +73,8 @@ icons = {
 
 
 function openFile(str, path) {
-    $(".window").not(':first').remove();
+    $(".window").html("");
+    $(".window").append("<span onClick=$('.window').removeClass('open') class='material-icons close'>close</span>");
     $(".window").append("<iframe class='file' src='/dir/file?file=" + path + "'></iframe>");
 
     $(".window").addClass("open");
